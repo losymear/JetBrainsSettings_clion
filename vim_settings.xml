@@ -1,0 +1,50 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="true" />
+    <globalmarks />
+    <filemarks>
+      <file name="$USER_HOME$/etc/losFiles/projects/C/learnC/main.cpp" timestamp="1539801892584">
+        <mark key="[" line="6" column="23" />
+        <mark key="]" line="12" column="0" />
+        <mark key="^" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+      </file>
+      <file name="/LLDB" timestamp="1539801881046">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/C/learnC/CMakeLists.txt" timestamp="1539801679497">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="4" column="20" />
+        <mark key="^" line="4" column="20" />
+        <mark key="." line="4" column="20" />
+      </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/C/learnC/test.cpp" timestamp="1539801437706">
+        <mark key="]" line="12" column="0" />
+        <mark key="^" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="3" column="0" filename="$USER_HOME$/etc/losFiles/projects/C/learnC/test.cpp" />
+    </jumps>
+    <registers>
+      <register name="1" type="2">
+        <text encoding="base64">Ly8KLy8gQ3JlYXRlZCBieSDnjovpk7Ygb24gMjAxOC8xMC8xOC4KLy8K</text>
+      </register>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Ly8KLy8gQ3JlYXRlZCBieSDnjovpk7Ygb24gMjAxOC8xMC8xOC4KLy8K</text>
+      </register>
+    </registers>
+    <search>
+      <last-dir>0</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search />
+      <history-cmd />
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts />
+  </component>
+</application>
