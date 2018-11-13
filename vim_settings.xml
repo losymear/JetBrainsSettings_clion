@@ -3,6 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/etc/losFiles/projects/C/learningC/main.c" timestamp="1542125388181" />
       <file name="$USER_HOME$/etc/losFiles/projects/C/learnC/main.cpp" timestamp="1539801892584">
         <mark key="[" line="6" column="23" />
         <mark key="]" line="12" column="0" />
@@ -23,6 +24,11 @@
         <mark key="^" line="12" column="0" />
         <mark key="." line="12" column="0" />
       </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/C/test/CMakeLists.txt" timestamp="1542125306523">
+        <mark key="[" line="1" column="9" />
+        <mark key="]" line="1" column="9" />
+        <mark key="." line="1" column="9" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="3" column="0" filename="$USER_HOME$/etc/losFiles/projects/C/learnC/test.cpp" />
@@ -31,8 +37,11 @@
       <register name="1" type="2">
         <text encoding="base64">Ly8KLy8gQ3JlYXRlZCBieSDnjovpk7Ygb24gMjAxOC8xMC8xOC4KLy8K</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Ly8KLy8gQ3JlYXRlZCBieSDnjovpk7Ygb24gMjAxOC8xMC8xOC4KLy8K</text>
+      <register name="&quot;" type="4">
+        <text>est</text>
+      </register>
+      <register name="-" type="4">
+        <text>est</text>
       </register>
     </registers>
     <search>
