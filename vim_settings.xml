@@ -9,15 +9,6 @@
       <file name="/Dummy.txt" timestamp="1542385864709">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/C/learnC/main.cpp" timestamp="1539801892584">
-        <mark key="[" line="6" column="23" />
-        <mark key="]" line="12" column="0" />
-        <mark key="^" line="12" column="0" />
-        <mark key="." line="12" column="0" />
-      </file>
-      <file name="/LLDB" timestamp="1539801881046">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/etc/losFiles/projects/C/learnC/CMakeLists.txt" timestamp="1539801679497">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="4" column="20" />
@@ -32,11 +23,11 @@
       <file name="/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/usr/include/stdio.h" timestamp="1542386562931">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/C/learningC/CMakeLists.txt" timestamp="1542385782577">
-        <mark key="[" line="8" column="28" />
-        <mark key="]" line="8" column="49" />
-        <mark key="." line="8" column="49" />
-        <mark key="^" line="8" column="49" />
+      <file name="$USER_HOME$/etc/losFiles/projects/C/learningC/CMakeLists.txt" timestamp="1542388064233">
+        <mark key="[" line="9" column="28" />
+        <mark key="]" line="9" column="45" />
+        <mark key="." line="9" column="45" />
+        <mark key="^" line="9" column="45" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/C/learningC/basic/fahrenheit-for-loop.c" timestamp="1542383363973">
         <mark key="[" line="9" column="0" />
@@ -54,12 +45,27 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/C/learningC/basic/copy_input_to_output.c" timestamp="1542387130695">
+      <file name="$USER_HOME$/etc/losFiles/projects/C/learnC/main.cpp" timestamp="1539801892584">
+        <mark key="[" line="6" column="23" />
+        <mark key="]" line="12" column="0" />
+        <mark key="^" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+      </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/C/learningC/basic/count_characters.c" timestamp="1542388326479">
+        <mark key="[" line="7" column="35" />
+        <mark key="]" line="7" column="34" />
+        <mark key="." line="7" column="34" />
+        <mark key="^" line="7" column="34" />
+      </file>
+      <file name="/LLDB" timestamp="1539801881046">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/C/learningC/basic/copy_input_to_output.c" timestamp="1542388256022">
         <mark key="'" line="0" column="16" />
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
-        <mark key="^" line="7" column="19" />
+        <mark key="[" line="2" column="12" />
+        <mark key="]" line="2" column="41" />
+        <mark key="." line="2" column="41" />
+        <mark key="^" line="2" column="41" />
       </file>
     </filemarks>
     <jumps>
@@ -70,44 +76,44 @@
       <jump line="0" column="0" filename="/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/usr/include/stdio.h" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludGYoIiVkXG4iLGMpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>测试</text>
       </register>
       <register name="-" type="4">
-        <text>fahrenheit-celsius-table.c)</text>
+        <text>测试</text>
       </register>
       <register name="/" type="4">
         <text>idea</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">YWRkX2V4ZWN1dGFibGUoYmFzaWMzIGJhc2ljL2ZhaHJlbmhlaXQtY2Vsc2l1cy10YWJsZS5jKQo=</text>
+        <text encoding="base64">Ly8g5Y+v5Lul5bCd6K+VYHByaW50ZiAi5rWL6K+VInwuL2Eub3V0YO+8jOe7k+aenOS4ujYK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludGYoIiVkXG4iLGMpOwo=</text>
+        <text encoding="base64">Ly8gbAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGMgPSBnZXRjaGFyKCk7Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjID0gZ2V0Y2hhcigpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwdXRjaGFyKGMpOwo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludGYoIiVkXG4iLGMpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGMgPSBnZXRjCg==</text>
+        <text encoding="base64">ICAgIGMgPSBnZXRjaGFyKCk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHB1dGNoYXIoOTcpOwo=</text>
+        <text encoding="base64">ICAgICAgICBjID0gZ2V0Y2hhcigpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZmFzOyA7Cg==</text>
+        <text encoding="base64">ICAgICAgICBwdXRjaGFyKGMpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">YWRkCg==</text>
+        <text encoding="base64">ICAgIGMgPSBnZXRjCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">YWRkX2V4ZWN1dGFibGUoYmFzaWNfZmFocmVuaGVpdC1mb3ItbG9vcC5jIGJhc2ljL2ZhaHJlbmhlaXQtZm9yLWxvb3AuYykK</text>
+        <text encoding="base64">ICAgIHB1dGNoYXIoOTcpOwo=</text>
       </register>
     </registers>
     <search>
