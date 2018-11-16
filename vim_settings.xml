@@ -6,6 +6,9 @@
       <file name="$USER_HOME$/etc/losFiles/projects/C/learningC/.gitignore" timestamp="1542135162059">
         <mark key="'" line="7" column="4" />
       </file>
+      <file name="/Dummy.txt" timestamp="1542385864709">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/etc/losFiles/projects/C/learnC/main.cpp" timestamp="1539801892584">
         <mark key="[" line="6" column="23" />
         <mark key="]" line="12" column="0" />
@@ -26,11 +29,11 @@
         <mark key="^" line="12" column="0" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/C/learningC/CMakeLists.txt" timestamp="1542383641022">
-        <mark key="[" line="6" column="50" />
-        <mark key="]" line="7" column="53" />
-        <mark key="." line="7" column="53" />
-        <mark key="^" line="7" column="53" />
+      <file name="$USER_HOME$/etc/losFiles/projects/C/learningC/CMakeLists.txt" timestamp="1542385782577">
+        <mark key="[" line="8" column="28" />
+        <mark key="]" line="8" column="49" />
+        <mark key="." line="8" column="49" />
+        <mark key="^" line="8" column="49" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/C/learningC/basic/fahrenheit-for-loop.c" timestamp="1542383363973">
         <mark key="[" line="9" column="0" />
@@ -43,43 +46,57 @@
         <mark key="]" line="1" column="9" />
         <mark key="." line="1" column="9" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/C/learningC/basic/fahrenheit-celsius-table.c" timestamp="1542383653100">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
+      <file name="$USER_HOME$/etc/losFiles/projects/C/learningC/basic/fahrenheit-celsius-table.c" timestamp="1542385717435">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/C/learningC/basic/copy_input_to_output.c" timestamp="1542385886873">
+        <mark key="'" line="0" column="16" />
+        <mark key="[" line="2" column="10" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+        <mark key="^" line="3" column="0" />
       </file>
     </filemarks>
     <jumps>
       <jump line="3" column="0" filename="$USER_HOME$/etc/losFiles/projects/C/learnC/test.cpp" />
       <jump line="7" column="4" filename="$USER_HOME$/etc/losFiles/projects/C/learningC/.gitignore" />
+      <jump line="0" column="16" filename="$USER_HOME$/etc/losFiles/projects/C/learningC/basic/copy_input_to_output.c" />
     </jumps>
     <registers>
       <register name="0" type="2">
-        <text encoding="base64">YWRkX2V4ZWN1dGFibGUoYmFzaWNfZmFocmVuaGVpdC1mb3ItbG9vcC5jIGJhc2ljL2ZhaHJlbmhlaXQtZm9yLWxvb3AuYykK</text>
+        <text encoding="base64">YWRkX2V4ZWN1dGFibGUoYmFzaWMzIGJhc2ljL2ZhaHJlbmhlaXQtY2Vsc2l1cy10YWJsZS5jKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZmFzOyA7Cg==</text>
+        <text encoding="base64">ICAgIGMgPSBnZXRjCg==</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ZmFzOyA7Cg==</text>
+        <text encoding="base64">ICAgIGMgPSBnZXRjCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">YWRkCg==</text>
+        <text encoding="base64">ICAgIHB1dGNoYXIoOTcpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">YWRkX2V4ZWN1dGFibGUoYmFzaWNfZmFocmVuaGVpdC1mb3ItbG9vcC5jIGJhc2ljL2ZhaHJlbmhlaXQtZm9yLWxvb3AuYykK</text>
+        <text encoding="base64">ZmFzOyA7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">YWRkX2xpYnJhcnkoYmFzaWMvZmFocmVuaGVpdC1mb3ItbG9vcC5jKQo=</text>
+        <text encoding="base64">YWRkCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">YWRkbAo=</text>
+        <text encoding="base64">YWRkX2V4ZWN1dGFibGUoYmFzaWNfZmFocmVuaGVpdC1mb3ItbG9vcC5jIGJhc2ljL2ZhaHJlbmhlaXQtZm9yLWxvb3AuYykK</text>
       </register>
       <register name="6" type="2">
+        <text encoding="base64">YWRkX2xpYnJhcnkoYmFzaWMvZmFocmVuaGVpdC1mb3ItbG9vcC5jKQo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">YWRkbAo=</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">Ly8KLy8gQ3JlYXRlZCBieSDnjovpk7Ygb24gMjAxOC8xMC8xOC4KLy8K</text>
       </register>
       <register name="-" type="4">
-        <text>hello_world</text>
+        <text>fahrenheit-celsius-table.c)</text>
       </register>
       <register name="/" type="4">
         <text>idea</text>
@@ -100,6 +117,10 @@
       <history-expr />
       <history-input />
     </history>
-    <shortcut-conflicts />
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed D</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
   </component>
 </application>
