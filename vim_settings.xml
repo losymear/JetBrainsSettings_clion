@@ -9,6 +9,12 @@
       <file name="/Dummy.txt" timestamp="1542385864709">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/C/learningC/basic/count_lines.c" timestamp="1542391076028">
+        <mark key="[" line="5" column="6" />
+        <mark key="]" line="5" column="5" />
+        <mark key="^" line="5" column="5" />
+        <mark key="." line="5" column="5" />
+      </file>
       <file name="$USER_HOME$/etc/losFiles/projects/C/learnC/CMakeLists.txt" timestamp="1539801679497">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="4" column="20" />
@@ -51,11 +57,10 @@
         <mark key="^" line="12" column="0" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/C/learningC/basic/count_characters.c" timestamp="1542388326479">
-        <mark key="[" line="7" column="35" />
-        <mark key="]" line="7" column="34" />
-        <mark key="." line="7" column="34" />
-        <mark key="^" line="7" column="34" />
+      <file name="$USER_HOME$/etc/losFiles/projects/C/learningC/basic/count_characters.c" timestamp="1542390841788">
+        <mark key="[" line="14" column="9" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
       </file>
       <file name="/LLDB" timestamp="1539801881046">
         <mark key="[" line="0" column="0" />
@@ -76,11 +81,11 @@
       <jump line="0" column="0" filename="/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/usr/include/stdio.h" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>测试</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Ly8g5Y+v5Lul5bCd6K+VYHByaW50ZiAi5rWL6K+VInwuL2Eub3V0YO+8jOe7k+aenOS4ujYK</text>
       </register>
       <register name="-" type="4">
-        <text>测试</text>
+        <text>l</text>
       </register>
       <register name="/" type="4">
         <text>idea</text>
@@ -89,31 +94,31 @@
         <text encoding="base64">Ly8g5Y+v5Lul5bCd6K+VYHByaW50ZiAi5rWL6K+VInwuL2Eub3V0YO+8jOe7k+aenOS4ujYK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gbAo=</text>
+        <text encoding="base64">Ly8g5Y+v5Lul5bCd6K+VYHByaW50ZiAi5rWL6K+VInwuL2Eub3V0YO+8jOe7k+aenOS4ujYK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">Ly8g5Y+v5Lul5bCd6K+VYHByaW50ZiAidGVzdCJ8Li9hLm91dGDvvIznu5PmnpzkuLo0Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludGYoIiVkXG4iLGMpOwo=</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGMgPSBnZXRjaGFyKCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBjID0gZ2V0Y2hhcigpOwo=</text>
+        <text encoding="base64">ICAgIGxvbmcgbmM7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwdXRjaGFyKGMpOwo=</text>
+        <text encoding="base64">Ly8gbAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGMgPSBnZXRjCg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHB1dGNoYXIoOTcpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
     </registers>
     <search>
