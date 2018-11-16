@@ -29,6 +29,9 @@
         <mark key="^" line="12" column="0" />
         <mark key="." line="12" column="0" />
       </file>
+      <file name="/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/usr/include/stdio.h" timestamp="1542386562931">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/etc/losFiles/projects/C/learningC/CMakeLists.txt" timestamp="1542385782577">
         <mark key="[" line="8" column="28" />
         <mark key="]" line="8" column="49" />
@@ -51,55 +54,60 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/C/learningC/basic/copy_input_to_output.c" timestamp="1542385886873">
+      <file name="$USER_HOME$/etc/losFiles/projects/C/learningC/basic/copy_input_to_output.c" timestamp="1542387130695">
         <mark key="'" line="0" column="16" />
-        <mark key="[" line="2" column="10" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
-        <mark key="^" line="3" column="0" />
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+        <mark key="^" line="7" column="19" />
       </file>
     </filemarks>
     <jumps>
       <jump line="3" column="0" filename="$USER_HOME$/etc/losFiles/projects/C/learnC/test.cpp" />
       <jump line="7" column="4" filename="$USER_HOME$/etc/losFiles/projects/C/learningC/.gitignore" />
       <jump line="0" column="16" filename="$USER_HOME$/etc/losFiles/projects/C/learningC/basic/copy_input_to_output.c" />
+      <jump line="166" column="5" filename="/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/usr/include/stdio.h" />
+      <jump line="0" column="0" filename="/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/usr/include/stdio.h" />
     </jumps>
     <registers>
-      <register name="0" type="2">
-        <text encoding="base64">YWRkX2V4ZWN1dGFibGUoYmFzaWMzIGJhc2ljL2ZhaHJlbmhlaXQtY2Vsc2l1cy10YWJsZS5jKQo=</text>
-      </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIGMgPSBnZXRjCg==</text>
-      </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGMgPSBnZXRjCg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIHB1dGNoYXIoOTcpOwo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ZmFzOyA7Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">YWRkCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">YWRkX2V4ZWN1dGFibGUoYmFzaWNfZmFocmVuaGVpdC1mb3ItbG9vcC5jIGJhc2ljL2ZhaHJlbmhlaXQtZm9yLWxvb3AuYykK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">YWRkX2xpYnJhcnkoYmFzaWMvZmFocmVuaGVpdC1mb3ItbG9vcC5jKQo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">YWRkbAo=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">Ly8KLy8gQ3JlYXRlZCBieSDnjovpk7Ygb24gMjAxOC8xMC8xOC4KLy8K</text>
+        <text encoding="base64">ICAgICAgICBwcmludGYoIiVkXG4iLGMpOwo=</text>
       </register>
       <register name="-" type="4">
         <text>fahrenheit-celsius-table.c)</text>
       </register>
       <register name="/" type="4">
         <text>idea</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">YWRkX2V4ZWN1dGFibGUoYmFzaWMzIGJhc2ljL2ZhaHJlbmhlaXQtY2Vsc2l1cy10YWJsZS5jKQo=</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBwcmludGYoIiVkXG4iLGMpOwo=</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIGMgPSBnZXRjaGFyKCk7Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBjID0gZ2V0Y2hhcigpOwo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBwdXRjaGFyKGMpOwo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGMgPSBnZXRjCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIHB1dGNoYXIoOTcpOwo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ZmFzOyA7Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">YWRkCg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">YWRkX2V4ZWN1dGFibGUoYmFzaWNfZmFocmVuaGVpdC1mb3ItbG9vcC5jIGJhc2ljL2ZhaHJlbmhlaXQtZm9yLWxvb3AuYykK</text>
       </register>
     </registers>
     <search>
