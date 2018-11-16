@@ -26,16 +26,27 @@
         <mark key="^" line="12" column="0" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/C/learningC/CMakeLists.txt" timestamp="1542206496581">
-        <mark key="[" line="3" column="1" />
-        <mark key="]" line="5" column="38" />
-        <mark key="^" line="5" column="38" />
-        <mark key="." line="5" column="38" />
+      <file name="$USER_HOME$/etc/losFiles/projects/C/learningC/CMakeLists.txt" timestamp="1542383641022">
+        <mark key="[" line="6" column="50" />
+        <mark key="]" line="7" column="53" />
+        <mark key="." line="7" column="53" />
+        <mark key="^" line="7" column="53" />
+      </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/C/learningC/basic/fahrenheit-for-loop.c" timestamp="1542383363973">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="^" line="9" column="3" />
+        <mark key="." line="9" column="0" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/C/test/CMakeLists.txt" timestamp="1542125306523">
         <mark key="[" line="1" column="9" />
         <mark key="]" line="1" column="9" />
         <mark key="." line="1" column="9" />
+      </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/C/learningC/basic/fahrenheit-celsius-table.c" timestamp="1542383653100">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -43,14 +54,32 @@
       <jump line="7" column="4" filename="$USER_HOME$/etc/losFiles/projects/C/learningC/.gitignore" />
     </jumps>
     <registers>
+      <register name="0" type="2">
+        <text encoding="base64">YWRkX2V4ZWN1dGFibGUoYmFzaWNfZmFocmVuaGVpdC1mb3ItbG9vcC5jIGJhc2ljL2ZhaHJlbmhlaXQtZm9yLWxvb3AuYykK</text>
+      </register>
       <register name="1" type="2">
+        <text encoding="base64">ZmFzOyA7Cg==</text>
+      </register>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ZmFzOyA7Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">YWRkCg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">YWRkX2V4ZWN1dGFibGUoYmFzaWNfZmFocmVuaGVpdC1mb3ItbG9vcC5jIGJhc2ljL2ZhaHJlbmhlaXQtZm9yLWxvb3AuYykK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">YWRkX2xpYnJhcnkoYmFzaWMvZmFocmVuaGVpdC1mb3ItbG9vcC5jKQo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">YWRkbAo=</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">Ly8KLy8gQ3JlYXRlZCBieSDnjovpk7Ygb24gMjAxOC8xMC8xOC4KLy8K</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>est</text>
-      </register>
       <register name="-" type="4">
-        <text>est</text>
+        <text>hello_world</text>
       </register>
       <register name="/" type="4">
         <text>idea</text>
