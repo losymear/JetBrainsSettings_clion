@@ -15,6 +15,13 @@
         <mark key="^" line="5" column="5" />
         <mark key="." line="5" column="5" />
       </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/C/learningC/basic/get_max_length_line.c" timestamp="1542559714305">
+        <mark key="'" line="6" column="30" />
+        <mark key="[" line="44" column="0" />
+        <mark key="]" line="44" column="0" />
+        <mark key="." line="44" column="0" />
+        <mark key="^" line="33" column="21" />
+      </file>
       <file name="$USER_HOME$/etc/losFiles/projects/C/learnC/CMakeLists.txt" timestamp="1539801679497">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="4" column="20" />
@@ -35,8 +42,8 @@
         <mark key="^" line="8" column="24" />
         <mark key="." line="8" column="24" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/C/learningC/CMakeLists.txt" timestamp="1542527278551">
-        <mark key="[" line="9" column="25" />
+      <file name="$USER_HOME$/etc/losFiles/projects/C/learningC/CMakeLists.txt" timestamp="1542557215385">
+        <mark key="[" line="9" column="48" />
         <mark key="]" line="9" column="23" />
         <mark key="." line="9" column="23" />
         <mark key="^" line="9" column="23" />
@@ -91,10 +98,12 @@
       <jump line="0" column="16" filename="$USER_HOME$/etc/losFiles/projects/C/learningC/basic/copy_input_to_output.c" />
       <jump line="166" column="5" filename="/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/usr/include/stdio.h" />
       <jump line="0" column="0" filename="/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/usr/include/stdio.h" />
+      <jump line="29" column="0" filename="$USER_HOME$/etc/losFiles/projects/C/learningC/basic/get_max_length_line.c" />
+      <jump line="6" column="30" filename="$USER_HOME$/etc/losFiles/projects/C/learningC/basic/get_max_length_line.c" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW50IHBvd2VyCg==</text>
+        <text encoding="base64">ICAgIHByaW50ZigiJXMiLCBzKTsK</text>
       </register>
       <register name="-" type="4">
         <text>basic/count_characters.c basic/count_lines.c basic/count_words.c)</text>
@@ -106,31 +115,31 @@
         <text encoding="base64">YWRkX2V4ZWN1dGFibGUoYmFzaWM2IGJhc2ljL2NvdW50X2xpbmVzLmMpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW50IHBvd2VyCg==</text>
+        <text encoding="base64">ICAgIHByaW50ZigiJXMiLCBzKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">YWRkX2V4ZWN1dGFibGUoYmFzaWMzIAo=</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICBwcmludGYoIiVkXG4iLCBjKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">YWRkX2V4ZWN1dGFibGUoYmFzaWM0ICkK</text>
+        <text encoding="base64">ICAgICAgICBwcmludGYoImPkuLolZCIsIGMpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">YWRkX2V4ZWN1dGFibGUoYmFzaWM1ICkK</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">LyoqCiAqIEBhdXRob3IgbG9zeW1lYXIKICovCg==</text>
+        <text encoding="base64">ICAgIHByaW50ZigiJXMiLCAiZSIpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludGYoIiVzIiwgbGluZSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICovCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICogQGluCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
     </registers>
     <search>
