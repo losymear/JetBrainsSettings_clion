@@ -15,11 +15,11 @@
         <mark key="^" line="5" column="5" />
         <mark key="." line="5" column="5" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/C/learningC/basic/get_max_length_line.c" timestamp="1542559714305">
+      <file name="$USER_HOME$/etc/losFiles/projects/C/learningC/basic/get_max_length_line.c" timestamp="1542560924237">
         <mark key="'" line="6" column="30" />
-        <mark key="[" line="44" column="0" />
-        <mark key="]" line="44" column="0" />
-        <mark key="." line="44" column="0" />
+        <mark key="[" line="53" column="30" />
+        <mark key="]" line="53" column="31" />
+        <mark key="." line="53" column="31" />
         <mark key="^" line="33" column="21" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/C/learnC/CMakeLists.txt" timestamp="1539801679497">
