@@ -29,11 +29,17 @@
       <file name="/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/usr/include/stdio.h" timestamp="1542386562931">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/C/learningC/CMakeLists.txt" timestamp="1542392073533">
-        <mark key="[" line="11" column="42" />
-        <mark key="]" line="11" column="40" />
-        <mark key="." line="11" column="40" />
-        <mark key="^" line="11" column="40" />
+      <file name="$USER_HOME$/etc/losFiles/projects/C/learningC/basic/function_power.c" timestamp="1542527475371">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="8" column="24" />
+        <mark key="^" line="8" column="24" />
+        <mark key="." line="8" column="24" />
+      </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/C/learningC/CMakeLists.txt" timestamp="1542527278551">
+        <mark key="[" line="9" column="25" />
+        <mark key="]" line="9" column="23" />
+        <mark key="." line="9" column="23" />
+        <mark key="^" line="9" column="23" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/C/learningC/basic/fahrenheit-for-loop.c" timestamp="1542383363973">
         <mark key="[" line="9" column="0" />
@@ -88,10 +94,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">LyoqCiAqIEBhdXRob3IgbG9zeW1lYXIKICovCg==</text>
+        <text encoding="base64">aW50IHBvd2VyCg==</text>
       </register>
       <register name="-" type="4">
-        <text>l</text>
+        <text>basic/count_characters.c basic/count_lines.c basic/count_words.c)</text>
       </register>
       <register name="/" type="4">
         <text>idea</text>
@@ -100,31 +106,31 @@
         <text encoding="base64">YWRkX2V4ZWN1dGFibGUoYmFzaWM2IGJhc2ljL2NvdW50X2xpbmVzLmMpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">LyoqCiAqIEBhdXRob3IgbG9zeW1lYXIKICovCg==</text>
+        <text encoding="base64">aW50IHBvd2VyCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">YWRkX2V4ZWN1dGFibGUoYmFzaWMzIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICovCg==</text>
+        <text encoding="base64">YWRkX2V4ZWN1dGFibGUoYmFzaWM0ICkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICogQGluCg==</text>
+        <text encoding="base64">YWRkX2V4ZWN1dGFibGUoYmFzaWM1ICkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">LyoqCiAqIEBhdXRob3IgbG9zeW1lYXIKICovCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8g5Y+v5Lul5bCd6K+VYHByaW50ZiAi5rWL6K+VInwuL2Eub3V0YO+8jOe7k+aenOS4ujYK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8g5Y+v5Lul5bCd6K+VYHByaW50ZiAidGVzdCJ8Li9hLm91dGDvvIznu5PmnpzkuLo0Cg==</text>
+        <text encoding="base64">ICovCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICogQGluCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
     </registers>
     <search>
