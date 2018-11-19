@@ -28,6 +28,13 @@
         <mark key="^" line="4" column="20" />
         <mark key="." line="4" column="20" />
       </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/C/learningC/basic/get_max_length_line_external_variable.c" timestamp="1542593212385">
+        <mark key="'" line="31" column="14" />
+        <mark key="[" line="19" column="17" />
+        <mark key="]" line="13" column="20" />
+        <mark key="^" line="13" column="20" />
+        <mark key="." line="13" column="20" />
+      </file>
       <file name="$USER_HOME$/etc/losFiles/projects/C/learnC/test.cpp" timestamp="1539801437706">
         <mark key="]" line="12" column="0" />
         <mark key="^" line="12" column="0" />
@@ -42,11 +49,11 @@
         <mark key="^" line="8" column="24" />
         <mark key="." line="8" column="24" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/C/learningC/CMakeLists.txt" timestamp="1542557215385">
-        <mark key="[" line="9" column="48" />
-        <mark key="]" line="9" column="23" />
-        <mark key="." line="9" column="23" />
-        <mark key="^" line="9" column="23" />
+      <file name="$USER_HOME$/etc/losFiles/projects/C/learningC/CMakeLists.txt" timestamp="1542593010529">
+        <mark key="[" line="8" column="28" />
+        <mark key="]" line="8" column="26" />
+        <mark key="." line="8" column="26" />
+        <mark key="^" line="8" column="26" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/C/learningC/basic/fahrenheit-for-loop.c" timestamp="1542383363973">
         <mark key="[" line="9" column="0" />
@@ -100,13 +107,16 @@
       <jump line="0" column="0" filename="/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/usr/include/stdio.h" />
       <jump line="29" column="0" filename="$USER_HOME$/etc/losFiles/projects/C/learningC/basic/get_max_length_line.c" />
       <jump line="6" column="30" filename="$USER_HOME$/etc/losFiles/projects/C/learningC/basic/get_max_length_line.c" />
+      <jump line="0" column="0" filename="$USER_HOME$/etc/losFiles/projects/C/learningC/basic/get_max_length_line_external_variable.c" />
+      <jump line="57" column="0" filename="$USER_HOME$/etc/losFiles/projects/C/learningC/basic/get_max_length_line_external_variable.c" />
+      <jump line="31" column="14" filename="$USER_HOME$/etc/losFiles/projects/C/learningC/basic/get_max_length_line_external_variable.c" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHByaW50ZigiJXMiLCBzKTsK</text>
+      <register name="&quot;" type="4">
+        <text>basic/get_max_length_line_external_variable.c</text>
       </register>
       <register name="-" type="4">
-        <text>basic/count_characters.c basic/count_lines.c basic/count_words.c)</text>
+        <text>basic/get_max_length_line_external_variable.c</text>
       </register>
       <register name="/" type="4">
         <text>idea</text>
