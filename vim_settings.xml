@@ -36,11 +36,11 @@
         <mark key="^" line="0" column="212" />
         <mark key="." line="0" column="212" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/C/learningC/tcpl/chapter3/Exercise3_5.c" timestamp="1543749620397">
-        <mark key="[" line="0" column="199" />
-        <mark key="]" line="3" column="0" />
-        <mark key="^" line="3" column="0" />
-        <mark key="." line="3" column="0" />
+      <file name="$USER_HOME$/etc/losFiles/projects/C/learningC/tcpl/chapter3/Exercise3_5.c" timestamp="1543771242213">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="^" line="5" column="5" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/C/learnC/main.cpp" timestamp="1539801892584">
         <mark key="[" line="6" column="23" />
@@ -166,7 +166,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">YmlnaW50Cg==</text>
       </register>
       <register name="-" type="4">
         <text>&quot;</text>
@@ -178,31 +178,31 @@
         <text encoding="base64">ICAgIHByaW50Zigi5pyA5aSnaW50MzI6JWQgIOacgOWkp+i0n+WAvGludDMyOiAlZFxuIiwgYSwgYik7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">YmlnaW50Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGsK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaW50ZigzKTsK</text>
+        <text encoding="base64">ICAgIGsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">fQo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">ICAgIHByaW50ZigzKTsK</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">fQo=</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">dm9pZCBtYWluKCl7Cg==</text>
+        <text encoding="base64">ICAgIHByaW50ZigzKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dm9pZCBtYWluKCl7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">I2luY2x1ZGUgInN0ZGlvLmgiCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGludCBiID0gLXBvdygyLjAsIDMxKTsK</text>
+        <text encoding="base64">I2luY2x1ZGUgInN0ZGlvLmgiCg==</text>
       </register>
     </registers>
     <search>
