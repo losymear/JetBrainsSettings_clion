@@ -9,7 +9,12 @@
       <file name="/Dummy.txt" timestamp="1542385864709">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/C/learningC/tmp.c" timestamp="1543687551763" />
+      <file name="$USER_HOME$/etc/losFiles/projects/C/learningC/tmp.c" timestamp="1543746903040">
+        <mark key="[" line="20" column="13" />
+        <mark key="]" line="20" column="14" />
+        <mark key="^" line="20" column="14" />
+        <mark key="." line="20" column="14" />
+      </file>
       <file name="$USER_HOME$/etc/losFiles/projects/C/learningC/basic/count_lines.c" timestamp="1542391076028">
         <mark key="[" line="5" column="6" />
         <mark key="]" line="5" column="5" />
@@ -120,10 +125,11 @@
       <jump line="31" column="14" filename="$USER_HOME$/etc/losFiles/projects/C/learningC/basic/get_max_length_line_external_variable.c" />
       <jump line="18" column="0" filename="$USER_HOME$/etc/losFiles/projects/C/learningC/basic/get_max_length_line_external_variable.c" />
       <jump line="0" column="0" filename="$USER_HOME$/etc/losFiles/projects/C/learningC/tmp.cpp" />
+      <jump line="10" column="0" filename="$USER_HOME$/etc/losFiles/projects/C/learningC/tmp.c" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGludCBpPTMxMTExMTE7CiAgICBjaGFyIGM9NDsKLy8gICAgaT1jOwogICAgYz1pOwogICAgcHJpbnRmKCIlZCwlZCIsIGksYyk7Cg==</text>
+        <text encoding="base64">ICAgIHByaW50ZihzKTsK</text>
       </register>
       <register name="-" type="4">
         <text>1</text>
@@ -132,34 +138,34 @@
         <text>idea</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">I2luY2x1ZGUgInN0ZGlvLmgiCg==</text>
+        <text encoding="base64">ICAgIHByaW50ZihzKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGludCBpPTMxMTExMTE7CiAgICBjaGFyIGM9NDsKLy8gICAgaT1jOwogICAgYz1pOwogICAgcHJpbnRmKCIlZCwlZCIsIGksYyk7Cg==</text>
+        <text encoding="base64">ICAgIHByaW50ZihpdG9hKDMsIHMpKTsK</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaW50ZigiJXMiLCBzKTsK</text>
+      <register name="2" type="4">
+        <text encoding="base64">dW5zaWduZWQgZ2V0Yml0cyh1bnNpZ25lZCB4LCBpbnQgcCwgaW50IG4pCnsKICAgIHJldHVybiAoeCA+PiAocCsxLW4pKSAmIH4ofjAgPDwgbik7Cn0=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICBwcmludGYoIiVkXG4iLCBjKTsK</text>
+        <text encoding="base64">aW50IG49MzM7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludGYoImPkuLolZCIsIGMpOwo=</text>
+        <text encoding="base64">ICAgIGZvciAoaW50IGkgPSAwOyBpIDwgbjsgaSsrKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaW50ZigiJXMiLCAiZSIpOwo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludGYoIiU2ZCVjIiwgaSwgKGklMTA9PTkgfHwgaT09bi0xKSA/ICdcbicgOiAnICcpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludGYoIiVzIiwgbGluZSk7Cg==</text>
+        <text encoding="base64">ICAgIGludCBpPTMxMTExMTE7CiAgICBjaGFyIGM9NDsKLy8gICAgaT1jOwogICAgYz1pOwogICAgcHJpbnRmKCIlZCwlZCIsIGksYyk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaW50ZigiJXMiLCBzKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICBwcmludGYoIiVkXG4iLCBjKTsK</text>
       </register>
     </registers>
     <search>
