@@ -53,11 +53,11 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/C/learningC/tcpl/CMakeLists.txt" timestamp="1546017459807">
-        <mark key="[" line="6" column="53" />
-        <mark key="]" line="6" column="38" />
-        <mark key="." line="6" column="38" />
-        <mark key="^" line="6" column="38" />
+      <file name="$USER_HOME$/etc/losFiles/projects/C/learningC/tcpl/CMakeLists.txt" timestamp="1546159719677">
+        <mark key="[" line="6" column="36" />
+        <mark key="]" line="6" column="23" />
+        <mark key="." line="6" column="23" />
+        <mark key="^" line="6" column="23" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/C/learningC/tcpl/chapter3/Exercise3_4.c" timestamp="1543749103654">
         <mark key="'" line="1" column="0" />
@@ -71,7 +71,7 @@
         <mark key="^" line="2" column="20" />
         <mark key="." line="2" column="20" />
       </file>
-      <file name="/LLDB" timestamp="1539801881046">
+      <file name="/LLDB" timestamp="1546160400860">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/C/learningC/basic/count_words.c" timestamp="1542392354834">
@@ -87,12 +87,12 @@
         <mark key="." line="2" column="41" />
         <mark key="^" line="2" column="41" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/C/learningC/tcpl/tmp.c" timestamp="1546017487863">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="6" column="1" />
-        <mark key="]" line="8" column="0" />
-        <mark key="^" line="8" column="0" />
-        <mark key="." line="8" column="0" />
+      <file name="$USER_HOME$/etc/losFiles/projects/C/learningC/tcpl/tmp.c" timestamp="1546161262255">
+        <mark key="'" line="26" column="2" />
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="28" column="0" />
+        <mark key="." line="28" column="0" />
+        <mark key="^" line="27" column="22" />
       </file>
       <file name="/Dummy.txt" timestamp="1542385864709">
         <mark key="[" line="0" column="0" />
@@ -171,13 +171,14 @@
       <jump line="1" column="0" filename="$USER_HOME$/etc/losFiles/projects/C/learningC/tcpl/chapter3/Exercise3_4.c" />
       <jump line="15" column="18" filename="$USER_HOME$/etc/losFiles/projects/C/learningC/tcpl/chapter3/itoa.c" />
       <jump line="0" column="0" filename="$USER_HOME$/etc/losFiles/projects/C/learningC/tcpl/tmp.c" />
+      <jump line="5" column="2" filename="$USER_HOME$/etc/losFiles/projects/C/learningC/tcpl/tmp.c" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">YWRkX2V4ZWN1dGFibGUodGNwbF9leGVyY2lzZSB0Y3BsL2NoYXB0ZXIzL0V4ZXJjaXNlM180LmMpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text>int</text>
       </register>
       <register name="/" type="4">
         <text>idea</text>
@@ -186,31 +187,31 @@
         <text encoding="base64">YWRkX2V4ZWN1dGFibGUodGNwbF9leGVyY2lzZSB0Y3BsL2NoYXB0ZXIzL0V4ZXJjaXNlM180LmMpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">YmlnaW50Cg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIGsK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIHByaW50ZigzKTsK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">fQo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaW50ZigzKTsK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">dm9pZCBtYWluKCl7Cg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIHByaW50ZigpCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIHRlc3QoMyk7Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIGNoYXIgc3RyW2NvdW50ICsgZmlyc3RTdGFjayAtIDFdOwo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIGNoYXIgKnAgPSAiIjsK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">I2luY2x1ZGUgInN0ZGlvLmgiCg==</text>
+        <text encoding="base64">ICAgICgpCg==</text>
       </register>
     </registers>
     <search>
