@@ -87,12 +87,11 @@
         <mark key="." line="2" column="41" />
         <mark key="^" line="2" column="41" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/C/learningC/tcpl/tmp.c" timestamp="1546161262255">
-        <mark key="'" line="26" column="2" />
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="28" column="0" />
-        <mark key="." line="28" column="0" />
-        <mark key="^" line="27" column="22" />
+      <file name="$USER_HOME$/etc/losFiles/projects/C/learningC/tcpl/tmp.c" timestamp="1546176218263">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="7" column="21" />
+        <mark key="." line="7" column="21" />
+        <mark key="^" line="7" column="21" />
       </file>
       <file name="/Dummy.txt" timestamp="1542385864709">
         <mark key="[" line="0" column="0" />
@@ -172,46 +171,47 @@
       <jump line="15" column="18" filename="$USER_HOME$/etc/losFiles/projects/C/learningC/tcpl/chapter3/itoa.c" />
       <jump line="0" column="0" filename="$USER_HOME$/etc/losFiles/projects/C/learningC/tcpl/tmp.c" />
       <jump line="5" column="2" filename="$USER_HOME$/etc/losFiles/projects/C/learningC/tcpl/tmp.c" />
+      <jump line="6" column="0" filename="$USER_HOME$/etc/losFiles/projects/C/learningC/tcpl/tmp.c" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>1</text>
       </register>
       <register name="-" type="4">
-        <text>int</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
         <text>idea</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">YWRkX2V4ZWN1dGFibGUodGNwbF9leGVyY2lzZSB0Y3BsL2NoYXB0ZXIzL0V4ZXJjaXNlM180LmMpCg==</text>
+        <text encoding="base64">ICAgIHByaW50ZigiJWYiLCAoaGVpZ2h0IC0gMTAwKSAqIDAuOSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGludCBoZWlnaHQ7CiAgICBzY2FuZigiJWQiLCAmaGVpZ2h0KTsKICAgIHByaW50ZigiJS4xZiIsIChoZWlnaHQgLSAxMDApICogMC45ICogMik7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIGludCBjZWxzaXVzID0gKGludCkgNS4wICogKGhlaWdodCAtIDMyKSAvIDk7CiAgICBwcmludGYoIkNlbHNpdXMgPSAlZCIsIGNlbHNpdXMpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGludCBmb290LCBpbmNoOwogICAgaW50IHRvdGFsSW5jaCA9IChpbnQpIChpbnB1dCAqIDEyIC8gMTAwLjAgLyAwLjMwNDgpOwogICAgZm9vdCA9IHRvdGFsSW5jaCAvIDEyOwogICAgaW5jaCA9IHRvdGFsSW5jaCAlIDEyOwogICAgcHJpbnRmKCIlZCAlZCIsIGZvb3QsIGluY2gpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHByaW50ZigpCg==</text>
+        <text encoding="base64">ICAgIGludCBpbnB1dCA9IHNjYW5mKCIlZCIpOwogICAgaW50IGZvb3QsIGluY2g7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHRlc3QoMyk7Cg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIHByaW50ZigiJWQiLCB0b3RhbEluY2gpOwo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNoYXIgc3RyW2NvdW50ICsgZmlyc3RTdGFjayAtIDFdOwo=</text>
+        <text encoding="base64">ICAgIHByaW50X2FzdGVyaXNrKDQsIDQpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNoYXIgKnAgPSAiIjsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICgpCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
     </registers>
     <search>
