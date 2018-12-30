@@ -30,6 +30,12 @@
         <mark key="^" line="7" column="19" />
         <mark key="." line="7" column="19" />
       </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/C/learningC/tcpl/pat.c" timestamp="1546190430407">
+        <mark key="[" line="29" column="15" />
+        <mark key="]" line="29" column="15" />
+        <mark key="." line="29" column="15" />
+        <mark key="^" line="29" column="15" />
+      </file>
       <file name="$USER_HOME$/etc/losFiles/projects/C/learningC/tcpl/chapter3/Exercise3_6.c" timestamp="1543749649995">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="212" />
@@ -53,11 +59,11 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/C/learningC/tcpl/CMakeLists.txt" timestamp="1546159719677">
-        <mark key="[" line="6" column="36" />
-        <mark key="]" line="6" column="23" />
-        <mark key="." line="6" column="23" />
-        <mark key="^" line="6" column="23" />
+      <file name="$USER_HOME$/etc/losFiles/projects/C/learningC/tcpl/CMakeLists.txt" timestamp="1546189458900">
+        <mark key="[" line="6" column="30" />
+        <mark key="]" line="6" column="17" />
+        <mark key="." line="6" column="17" />
+        <mark key="^" line="6" column="17" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/C/learningC/tcpl/chapter3/Exercise3_4.c" timestamp="1543749103654">
         <mark key="'" line="1" column="0" />
@@ -71,7 +77,7 @@
         <mark key="^" line="2" column="20" />
         <mark key="." line="2" column="20" />
       </file>
-      <file name="/LLDB" timestamp="1546160400860">
+      <file name="/LLDB" timestamp="1546188968844">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/C/learningC/basic/count_words.c" timestamp="1542392354834">
@@ -87,11 +93,11 @@
         <mark key="." line="2" column="41" />
         <mark key="^" line="2" column="41" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/C/learningC/tcpl/tmp.c" timestamp="1546176218263">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="7" column="21" />
-        <mark key="." line="7" column="21" />
-        <mark key="^" line="7" column="21" />
+      <file name="$USER_HOME$/etc/losFiles/projects/C/learningC/tcpl/tmp.c" timestamp="1546189412968">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="^" line="8" column="0" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1542385864709">
         <mark key="[" line="0" column="0" />
@@ -114,7 +120,7 @@
         <mark key="^" line="4" column="20" />
         <mark key="." line="4" column="20" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/C/learningC/basic/get_max_length_line_external_variable.c" timestamp="1542695925748">
+      <file name="$USER_HOME$/etc/losFiles/projects/C/learningC/basic/get_max_length_line_external_variable.c" timestamp="1546189420276">
         <mark key="'" line="18" column="0" />
         <mark key="[" line="19" column="17" />
         <mark key="]" line="13" column="20" />
@@ -174,44 +180,44 @@
       <jump line="6" column="0" filename="$USER_HOME$/etc/losFiles/projects/C/learningC/tcpl/tmp.c" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>1</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHByaW50ZigiJWRcbiIsICpzdGFydE1pbnV0ZVApOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text>int val1, int val2</text>
       </register>
       <register name="/" type="4">
         <text>idea</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHByaW50ZigiJWYiLCAoaGVpZ2h0IC0gMTAwKSAqIDAuOSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICB3aGlsZSAoKnN0YXJ0SG91clAgPCAwKSB7CiAgICAgICAgICAgICpzdGFydEhvdXJQIC09IDE7CiAgICAgICAgICAgICpzdGFydE1pbnV0ZVAgKz0gNjA7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGludCBoZWlnaHQ7CiAgICBzY2FuZigiJWQiLCAmaGVpZ2h0KTsKICAgIHByaW50ZigiJS4xZiIsIChoZWlnaHQgLSAxMDApICogMC45ICogMik7Cg==</text>
+        <text encoding="base64">ICAgIHByaW50ZigiJWRcbiIsICpzdGFydE1pbnV0ZVApOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGludCBjZWxzaXVzID0gKGludCkgNS4wICogKGhlaWdodCAtIDMyKSAvIDk7CiAgICBwcmludGYoIkNlbHNpdXMgPSAlZCIsIGNlbHNpdXMpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGludCBmb290LCBpbmNoOwogICAgaW50IHRvdGFsSW5jaCA9IChpbnQpIChpbnB1dCAqIDEyIC8gMTAwLjAgLyAwLjMwNDgpOwogICAgZm9vdCA9IHRvdGFsSW5jaCAvIDEyOwogICAgaW5jaCA9IHRvdGFsSW5jaCAlIDEyOwogICAgcHJpbnRmKCIlZCAlZCIsIGZvb3QsIGluY2gpOwo=</text>
+        <text encoding="base64">ICAgIHByaW4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGludCBpbnB1dCA9IHNjYW5mKCIlZCIpOwogICAgaW50IGZvb3QsIGluY2g7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaW50ZigiJWQiLCB0b3RhbEluY2gpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaW50X2FzdGVyaXNrKDQsIDQpOwo=</text>
+        <text encoding="base64">ICAgICAgICAqc3RhcnRNaW51dGVQICs9IHBlcmlvZDsK</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
     </registers>
     <search>
@@ -232,6 +238,9 @@
     <shortcut-conflicts>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed D</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed R</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
