@@ -58,11 +58,11 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/C/learningC/pat/zhongM2018/CMakeLists.txt" timestamp="1546204572448">
+      <file name="$USER_HOME$/etc/losFiles/projects/C/learningC/pat/zhongM2018/CMakeLists.txt" timestamp="1546249377196">
         <mark key="'" line="12" column="37" />
-        <mark key="[" line="14" column="60" />
-        <mark key="]" line="14" column="59" />
-        <mark key="." line="14" column="59" />
+        <mark key="[" line="13" column="61" />
+        <mark key="]" line="13" column="62" />
+        <mark key="." line="13" column="62" />
         <mark key="^" line="14" column="59" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/C/learningC/tcpl/chapter3/Exercise3_4.c" timestamp="1543749103654">
@@ -77,7 +77,7 @@
         <mark key="^" line="2" column="20" />
         <mark key="." line="2" column="20" />
       </file>
-      <file name="/LLDB" timestamp="1546195002965">
+      <file name="/LLDB" timestamp="1546249040166">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/C/learningC/basic/count_words.c" timestamp="1542392354834">
@@ -168,12 +168,12 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/C/learningC/pat/zhongM2018/q7-19.c" timestamp="1546204825842">
+      <file name="$USER_HOME$/etc/losFiles/projects/C/learningC/pat/zhongM2018/q7-19.c" timestamp="1546249159297">
         <mark key="'" line="9" column="6" />
-        <mark key="[" line="23" column="5" />
-        <mark key="]" line="24" column="20" />
-        <mark key="." line="24" column="20" />
-        <mark key="^" line="24" column="20" />
+        <mark key="[" line="2" column="34" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+        <mark key="^" line="7" column="0" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/C/learningC/pat/zhongM2018/q6-4.c" timestamp="1546203776894">
         <mark key="'" line="3" column="1" />
@@ -181,6 +181,13 @@
         <mark key="]" line="20" column="38" />
         <mark key="^" line="20" column="38" />
         <mark key="." line="20" column="38" />
+      </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/C/learningC/pat/zhongM2018/q6-3.c" timestamp="1546249452692">
+        <mark key="'" line="41" column="1" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="^" line="6" column="0" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/C/learningC/pat/zhongM2018/q7-14.c" timestamp="1546203730168">
         <mark key="[" line="1" column="0" />
@@ -219,10 +226,11 @@
       <jump line="12" column="18" filename="$USER_HOME$/etc/losFiles/projects/C/learningC/pat/pat.c" />
       <jump line="23" column="7" filename="$USER_HOME$/etc/losFiles/projects/C/learningC/pat/pat.c" />
       <jump line="12" column="6" filename="$USER_HOME$/etc/losFiles/projects/C/learningC/pat/zhongM2018/q7-19.c" />
+      <jump line="34" column="1" filename="$USER_HOME$/etc/losFiles/projects/C/learningC/pat/zhongM2018/q6-3.c" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">YWRkX2V4ZWN1dGFibGUoemhvbmdNX0NvZGUtQ29tcGxldGlvbl9xNi00IHBhdC96aG9uZ00yMDE4L3E2LTQuYykK</text>
       </register>
       <register name="-" type="4">
         <text>需</text>
@@ -231,34 +239,34 @@
         <text>idea</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBjYXNlIDU6Cg==</text>
+        <text encoding="base64">YWRkX2V4ZWN1dGFibGUoemhvbmdNX0NvZGUtQ29tcGxldGlvbl9xNi00IHBhdC96aG9uZ00yMDE4L3E2LTQuYykK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">I2luY2x1ZGUgPG1lbW9yeS5oPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">I2RlZmluZSBNQVhTIDMwCg==</text>
+        <text encoding="base64">ICAgICAgICBoYW5kbGVkKys7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHN3aXRjaChtb250aCl7CiAgICAgICAgaWYqCiAgICB9Cg==</text>
+        <text encoding="base64">ICAgIHJldHVybiBkYXlzICsgZGQ7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBjYXNlIDU6Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBjYXNlIDU6Cg==</text>
+        <text encoding="base64">I2luY2x1ZGUgPG1lbW9yeS5oPgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBjYXNlIDM6Cg==</text>
+        <text encoding="base64">I2RlZmluZSBNQVhTIDMwCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjYXNlIDE6Cg==</text>
+        <text encoding="base64">ICAgIHN3aXRjaChtb250aCl7CiAgICAgICAgaWYqCiAgICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICogQGFiY2QK</text>
+        <text encoding="base64">ICAgICAgICBjYXNlIDU6Cg==</text>
       </register>
     </registers>
     <search>
