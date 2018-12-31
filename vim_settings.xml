@@ -3,17 +3,30 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/etc/losFiles/projects/C/learningC/pat/Basic_Level_Pratice/README.md" timestamp="1546270549172">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="1" column="18" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/C/learningC/pat/Basic_Level_Pratice/CMakeLists.txt" timestamp="1546271981134">
+        <mark key="[" line="6" column="53" />
+        <mark key="]" line="6" column="54" />
+        <mark key="^" line="12" column="55" />
+        <mark key="." line="6" column="54" />
+      </file>
       <file name="$USER_HOME$/etc/losFiles/projects/C/learningC/tcpl/pat.c" timestamp="1546201431416">
         <mark key="[" line="38" column="16" />
         <mark key="]" line="49" column="0" />
         <mark key="." line="49" column="0" />
         <mark key="^" line="49" column="0" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/C/learningC/pat/pat.c" timestamp="1546266159353">
-        <mark key="[" line="29" column="0" />
-        <mark key="]" line="36" column="2" />
-        <mark key="." line="36" column="2" />
-        <mark key="^" line="36" column="2" />
+      <file name="$USER_HOME$/etc/losFiles/projects/C/learningC/pat/pat.c" timestamp="1546270339259">
+        <mark key="'" line="7" column="0" />
+        <mark key="[" line="7" column="18" />
+        <mark key="]" line="7" column="17" />
+        <mark key="^" line="7" column="17" />
+        <mark key="." line="7" column="17" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/C/learningC/tcpl/chapter3/Exercise3_6.c" timestamp="1543749649995">
         <mark key="[" line="0" column="0" />
@@ -67,7 +80,7 @@
         <mark key="^" line="2" column="20" />
         <mark key="." line="2" column="20" />
       </file>
-      <file name="/LLDB" timestamp="1546255889648">
+      <file name="/LLDB" timestamp="1546271884299">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/C/learningC/pat/zhongM2018/q7-27.c" timestamp="1546266215455">
@@ -75,6 +88,12 @@
         <mark key="]" line="3" column="5" />
         <mark key="^" line="3" column="5" />
         <mark key="." line="3" column="5" />
+      </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/C/learningC/pat/Basic_Level_Pratice/1002.c" timestamp="1546272249777">
+        <mark key="[" line="30" column="17" />
+        <mark key="]" line="30" column="16" />
+        <mark key="." line="30" column="16" />
+        <mark key="^" line="30" column="16" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/C/learningC/basic/count_words.c" timestamp="1542392354834">
         <mark key="[" line="1" column="31" />
@@ -88,7 +107,7 @@
         <mark key="^" line="8" column="0" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1542385864709">
+      <file name="/Dummy.txt" timestamp="1546269080130">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/C/learningC/tmp.c" timestamp="1543748875309">
@@ -97,11 +116,11 @@
         <mark key="." line="28" column="16" />
         <mark key="^" line="28" column="16" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/C/learningC/pat/CMakeLists.txt" timestamp="1546202808665">
-        <mark key="[" line="7" column="29" />
-        <mark key="]" line="7" column="25" />
-        <mark key="^" line="7" column="25" />
-        <mark key="." line="7" column="25" />
+      <file name="$USER_HOME$/etc/losFiles/projects/C/learningC/pat/CMakeLists.txt" timestamp="1546270621793">
+        <mark key="[" line="5" column="20" />
+        <mark key="]" line="5" column="45" />
+        <mark key="^" line="5" column="45" />
+        <mark key="." line="5" column="45" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/C/learningC/basic/count_lines.c" timestamp="1542391076028">
         <mark key="[" line="5" column="6" />
@@ -223,19 +242,26 @@
       <jump line="13" column="16" filename="$USER_HOME$/etc/losFiles/projects/C/learningC/pat/zhongM2018/q7-20.c" />
       <jump line="4" column="21" filename="$USER_HOME$/etc/losFiles/projects/C/learningC/pat/pat.c" />
       <jump line="16" column="1" filename="$USER_HOME$/etc/losFiles/projects/C/learningC/pat/zhongM2018/CMakeLists.txt" />
+      <jump line="20" column="11" filename="$USER_HOME$/etc/losFiles/projects/C/learningC/pat/pat.c" />
+      <jump line="3" column="0" filename="$USER_HOME$/etc/losFiles/projects/C/learningC/pat/pat.c" />
+      <jump line="8" column="0" filename="$USER_HOME$/etc/losFiles/projects/C/learningC/pat/pat.c" />
+      <jump line="2" column="0" filename="$USER_HOME$/etc/losFiles/projects/C/learningC/pat/pat.c" />
+      <jump line="7" column="0" filename="$USER_HOME$/etc/losFiles/projects/C/learningC/pat/pat.c" />
+      <jump line="11" column="18" filename="$USER_HOME$/etc/losFiles/projects/C/learningC/pat/Basic_Level_Pratice/1001.c" />
+      <jump line="17" column="3" filename="$USER_HOME$/etc/losFiles/projects/C/learningC/pat/Basic_Level_Pratice/1001.c" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>Lucky you!</text>
+        <text>int</text>
       </register>
       <register name="/" type="4">
         <text>idea</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">YWRkX2V4ZWN1dGFibGUoemhvbmdNX1Byb2dyYW1taW5nX3E3LjIwIHBhdC96aG9uZ00yMDE4L3E3LTIwLmMpCg==</text>
+        <text encoding="base64">YWRkX2V4ZWN1dGFibGUoYmFzaWNfMTAwMSBwYXQvQmFzaWNfTGV2ZWxfUHJhdGljZS8xMDAxLmMpCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -244,25 +270,25 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">YWRkX2V4ZWN1dGFibGUoemhvbmdNX1Byb2dyYW1taW5nX3E3LjIwXzIgcGF0L3pob25nTTIwMTgvcTctMjBfMi5jKQphZGRfZXhlY3V0YWJsZSh6aG9uZ01fUHJvZ3JhbW1pbmdfcTcuMjBfMiBwYXQvemhvbmdNMjAxOC9xNy0yMF8yLmMpCg==</text>
+        <text encoding="base64">ICAgIHByaW50ZigiJWQiLCBzdW1SZXN1bHQpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludGYoIiVkXG4iLCB0cnVlQW1vdW50KTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnRmKCIlZCIsIGRheSk7Cg==</text>
+        <text encoding="base64">ICAgIHJldHVybiByZXN1bHQ7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGZvcgo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW50IAo=</text>
+        <text encoding="base64">ICAgICAgICBpbnB1dCAvPSAxMDsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGludCBkCg==</text>
+        <text encoding="base64">ICAgICAgICByZXN1bHQgKz0gaW5wdXQgLSBpbnB1dCAvIDEwICogMTA7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIHdoaWxlIChpbnB1dCA+IDApIHsK</text>
       </register>
     </registers>
     <search>
