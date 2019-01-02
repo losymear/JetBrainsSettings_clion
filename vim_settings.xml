@@ -9,11 +9,11 @@
         <mark key="^" line="1" column="18" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/C/learningC/pat/Basic_Level_Pratice/CMakeLists.txt" timestamp="1546271981134">
-        <mark key="[" line="6" column="53" />
-        <mark key="]" line="6" column="54" />
-        <mark key="^" line="12" column="55" />
-        <mark key="." line="6" column="54" />
+      <file name="$USER_HOME$/etc/losFiles/projects/C/learningC/pat/Basic_Level_Pratice/CMakeLists.txt" timestamp="1546361555617">
+        <mark key="[" line="7" column="53" />
+        <mark key="]" line="7" column="54" />
+        <mark key="^" line="13" column="55" />
+        <mark key="." line="7" column="54" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/C/learningC/tcpl/pat.c" timestamp="1546201431416">
         <mark key="[" line="38" column="16" />
@@ -89,7 +89,14 @@
         <mark key="^" line="3" column="5" />
         <mark key="." line="3" column="5" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/C/learningC/pat/Basic_Level_Pratice/1002.c" timestamp="1546272249777">
+      <file name="$USER_HOME$/etc/losFiles/projects/C/learningC/pat/Basic_Level_Pratice/1003.c" timestamp="1546363673050">
+        <mark key="'" line="12" column="0" />
+        <mark key="[" line="0" column="18" />
+        <mark key="]" line="8" column="54" />
+        <mark key="." line="8" column="54" />
+        <mark key="^" line="8" column="54" />
+      </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/C/learningC/pat/Basic_Level_Pratice/1002.c" timestamp="1546361568780">
         <mark key="[" line="30" column="17" />
         <mark key="]" line="30" column="16" />
         <mark key="." line="30" column="16" />
@@ -249,58 +256,64 @@
       <jump line="7" column="0" filename="$USER_HOME$/etc/losFiles/projects/C/learningC/pat/pat.c" />
       <jump line="11" column="18" filename="$USER_HOME$/etc/losFiles/projects/C/learningC/pat/Basic_Level_Pratice/1001.c" />
       <jump line="17" column="3" filename="$USER_HOME$/etc/losFiles/projects/C/learningC/pat/Basic_Level_Pratice/1001.c" />
+      <jump line="55" column="25" filename="$USER_HOME$/etc/losFiles/projects/C/learningC/pat/Basic_Level_Pratice/1003.c" />
+      <jump line="23" column="24" filename="$USER_HOME$/etc/losFiles/projects/C/learningC/pat/Basic_Level_Pratice/1003.c" />
+      <jump line="32" column="28" filename="$USER_HOME$/etc/losFiles/projects/C/learningC/pat/Basic_Level_Pratice/1003.c" />
+      <jump line="45" column="24" filename="$USER_HOME$/etc/losFiles/projects/C/learningC/pat/Basic_Level_Pratice/1003.c" />
+      <jump line="11" column="0" filename="$USER_HOME$/etc/losFiles/projects/C/learningC/pat/Basic_Level_Pratice/1003.c" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="-" type="4">
-        <text>int</text>
+        <text>=</text>
       </register>
       <register name="/" type="4">
-        <text>idea</text>
+        <text>No</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">YWRkX2V4ZWN1dGFibGUoYmFzaWNfMTAwMSBwYXQvQmFzaWNfTGV2ZWxfUHJhdGljZS8xMDAxLmMpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzdGF0dXMgPT0gMTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKGp1ZGdlZCA9PSAwKSB7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaW50ZigiJWQiLCBzdW1SZXN1bHQpOwo=</text>
+        <text encoding="base64">ICAgICAgICBpbgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHJldHVybiByZXN1bHQ7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpbnB1dCAvPSAxMDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKGN1cnJlbnRDaGFyID09ICdUJykgewo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByZXN1bHQgKz0gaW5wdXQgLSBpbnB1dCAvIDEwICogMTA7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHdoaWxlIChpbnB1dCA+IDApIHsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
     </registers>
     <search>
-      <last-search>idea</last-search>
+      <last-search>No</last-search>
       <last-offset />
-      <last-pattern>idea</last-pattern>
+      <last-pattern>No</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
         <entry>idea</entry>
+        <entry>No</entry>
       </history-search>
       <history-cmd />
       <history-expr />
