@@ -3,11 +3,28 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/etc/losFiles/projects/C/learningC/pat/Basic_Level_Pratice/1007.c" timestamp="1546662245407">
+        <mark key="'" line="11" column="22" />
+        <mark key="^" line="32" column="23" />
+      </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/C/learningC/pat/Basic_Level_Pratice/1006.c" timestamp="1546661817211">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="27" column="18" />
+        <mark key="]" line="27" column="23" />
+        <mark key="." line="27" column="23" />
+        <mark key="^" line="27" column="23" />
+      </file>
       <file name="$USER_HOME$/etc/losFiles/projects/C/learningC/pat/Basic_Level_Pratice/README.md" timestamp="1546270549172">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="1" column="18" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/C/learningC/pat/Basic_Level_Pratice/1008.c" timestamp="1546663076837">
+        <mark key="[" line="19" column="10" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
+        <mark key="^" line="21" column="0" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/C/learningC/tcpl/chapter3/itoa.c" timestamp="1543748975137">
         <mark key="'" line="17" column="18" />
@@ -23,11 +40,11 @@
         <mark key="." line="53" column="31" />
         <mark key="^" line="33" column="21" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/C/learningC/pat/Basic_Level_Pratice/CMakeLists.txt" timestamp="1546590795177">
-        <mark key="[" line="9" column="53" />
-        <mark key="]" line="9" column="54" />
-        <mark key="^" line="14" column="55" />
-        <mark key="." line="9" column="54" />
+      <file name="$USER_HOME$/etc/losFiles/projects/C/learningC/pat/Basic_Level_Pratice/CMakeLists.txt" timestamp="1546662342050">
+        <mark key="[" line="12" column="53" />
+        <mark key="]" line="12" column="54" />
+        <mark key="^" line="17" column="55" />
+        <mark key="." line="12" column="54" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/C/learningC/tmp.cpp" timestamp="1543671698956">
         <mark key="'" line="0" column="0" />
@@ -78,16 +95,6 @@
         <mark key="." line="8" column="10" />
         <mark key="^" line="8" column="10" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/C/learningC/basic/count_characters.c" timestamp="1542390841788">
-        <mark key="[" line="14" column="9" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
-      </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/C/learningC/tcpl/CMakeLists.txt" timestamp="1546202673328">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
-      </file>
       <file name="$USER_HOME$/etc/losFiles/projects/C/learningC/pat/zhongM2018/CMakeLists.txt" timestamp="1546266151359">
         <mark key="'" line="16" column="1" />
         <mark key="[" line="18" column="59" />
@@ -100,7 +107,7 @@
         <mark key="^" line="2" column="20" />
         <mark key="." line="2" column="20" />
       </file>
-      <file name="/LLDB" timestamp="1546271884299">
+      <file name="/LLDB" timestamp="1546662215962">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/C/learningC/pat/zhongM2018/q7-27.c" timestamp="1546266215455">
@@ -213,16 +220,6 @@
         <mark key="^" line="12" column="13" />
         <mark key="." line="12" column="13" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/C/test/CMakeLists.txt" timestamp="1542125306523">
-        <mark key="[" line="1" column="9" />
-        <mark key="]" line="1" column="9" />
-        <mark key="." line="1" column="9" />
-      </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/C/learningC/basic/fahrenheit-celsius-table.c" timestamp="1542385717435">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-      </file>
       <file name="$USER_HOME$/etc/losFiles/projects/C/learningC/pat/zhongM2018/q7-19.c" timestamp="1546249159297">
         <mark key="'" line="9" column="6" />
         <mark key="[" line="2" column="34" />
@@ -306,46 +303,49 @@
       <jump line="32" column="25" filename="$USER_HOME$/etc/losFiles/projects/C/learningC/pat/Basic_Level_Pratice/1005.c" />
       <jump line="52" column="2" filename="$USER_HOME$/etc/losFiles/projects/C/learningC/pat/Basic_Level_Pratice/1005.c" />
       <jump line="9" column="30" filename="$USER_HOME$/etc/losFiles/projects/C/learningC/pat/pat.c" />
+      <jump line="0" column="0" filename="$USER_HOME$/etc/losFiles/projects/C/learningC/pat/Basic_Level_Pratice/1006.c" />
+      <jump line="0" column="0" filename="$USER_HOME$/etc/losFiles/projects/C/learningC/pat/Basic_Level_Pratice/1007.c" />
+      <jump line="8" column="22" filename="$USER_HOME$/etc/losFiles/projects/C/learningC/pat/Basic_Level_Pratice/1007.c" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHByKCk7Cg==</text>
+        <text encoding="base64">ICAgIGZvciAoaW50IGkgPSAwOyBpIDwgTjsgKytpKSB7CiAgICAgICAgYXJyW2ldID0gaSArIDE7CiAgICAgICAgc2NhbmYoKQogICAgfQoKICAgIC8vIOWQjuWNiumDqOWIhgogICAgZm9yIChpbnQgaiA9IE4gLSAxOyBqID49IE07IC0taikgewogICAgICAgIGFycltqXSA9IGogLSBNICsgMTsKICAgIH0KCiAgICAvLyDliY3ljYrpg6jliIYKICAgIGZvciAoaW50IGsgPSAwOyBrIDwgTTsgKytrKSB7CiAgICAgICAgYXJyW2tdID0gayArIE4gLSBNICsgMTsKICAgIH0KCiAgICBmb3IgKGludCBsID0gMDsgbCA8IE47ICsrbCkgewogICAgICAgIGlmIChsID09IDApIHsKICAgICAgICAgICAgcHJpbnRmKCIlZCIsIGFycltsXSk7CiAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgcHJpbnRmKCIgJWQiLCBhcnJbbF0pOwogICAgICAgIH0KICAgIH0KCn0K</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>main</text>
       </register>
       <register name="/" type="4">
         <text>No</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHByKCk7Cg==</text>
+        <text encoding="base64">ICAgIC8vIOWQjuWNiumDqOWIhgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGFkZCgpOwo=</text>
+        <text encoding="base64">ICAgIGZvciAoaW50IGkgPSAwOyBpIDwgTjsgKytpKSB7CiAgICAgICAgYXJyW2ldID0gaSArIDE7CiAgICAgICAgc2NhbmYoKQogICAgfQoKICAgIC8vIOWQjuWNiumDqOWIhgogICAgZm9yIChpbnQgaiA9IE4gLSAxOyBqID49IE07IC0taikgewogICAgICAgIGFycltqXSA9IGogLSBNICsgMTsKICAgIH0KCiAgICAvLyDliY3ljYrpg6jliIYKICAgIGZvciAoaW50IGsgPSAwOyBrIDwgTTsgKytrKSB7CiAgICAgICAgYXJyW2tdID0gayArIE4gLSBNICsgMTsKICAgIH0KCiAgICBmb3IgKGludCBsID0gMDsgbCA8IE47ICsrbCkgewogICAgICAgIGlmIChsID09IDApIHsKICAgICAgICAgICAgcHJpbnRmKCIlZCIsIGFycltsXSk7CiAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgcHJpbnRmKCIgJWQiLCBhcnJbbF0pOwogICAgICAgIH0KICAgIH0KCn0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHNob3J0IHg7CiAgICAvLyB0eXBlIGFyZ3VtZW50OgogICAgcHJpbnRmKCJzaXplb2YoZmxvYXQpICAgICAgICAgID0gJXp1XG4iLCBzaXplb2YoZmxvYXQpKTsKICAgIHByaW50Zigic2l6ZW9mKHZvaWQoKikodm9pZCkpICA9ICV6dVxuIiwgc2l6ZW9mKHZvaWQoKikodm9pZCkpKTsKICAgIHByaW50Zigic2l6ZW9mKGNoYXJbMTBdKSAgICAgICA9ICV6dVxuIiwgc2l6ZW9mKGNoYXJbMTBdKSk7Ci8vICBwcmludGYoInNpemVvZih2b2lkKHZvaWQpKSAgICAgPSAlenVcbiIsIHNpemVvZih2b2lkKHZvaWQpKSk7IC8vIEVycm9yOiBmdW5jdGlvbiB0eXBlCi8vICBwcmludGYoInNpemVvZihjaGFyW10pICAgICAgICAgPSAlenVcbiIsIHNpemVvZihjaGFyW10pKTsgLy8gRXJyb3I6IGluY29tcGxldGUgdHlwZQoKICAgIC8vIGV4cHJlc3Npb24gYXJndW1lbnQ6CiAgICBwcmludGYoInNpemVvZiAnYScgICAgICAgICAgICAgPSAlenVcbiIsIHNpemVvZiAnYScpOyAvLyB0eXBlIG9mICdhJyBpcyBpbnQKLy8gIHByaW50Zigic2l6ZW9mIG1haW4gICAgICAgICAgICA9ICV6dVxuIiwgc2l6ZW9mIG1haW4pOyAvLyBFcnJvcjogRnVuY3Rpb24gdHlwZQogICAgcHJpbnRmKCJzaXplb2YgJm1haW4gICAgICAgICAgID0gJXp1XG4iLCBzaXplb2YgJm1haW4pOwogICAgcHJpbnRmKCJzaXplb2YgXCJoZWxsb1wiICAgICAgICAgPSAlenVcbiIsIHNpemVvZiAiaGVsbG8iKTsgLy8gdHlwZSBpcyBjaGFyWzZdCiAgICBwcmludGYoInNpemVvZiB4ICAgICAgICAgICAgICAgPSAlenVcbiIsIHNpemVvZiB4KTsgICAvLyB0eXBlIG9mIHggaXMgc2hvcnQKICAgIHByaW50Zigic2l6ZW9mICh4KzEpICAgICAgICAgICA9ICV6dVxuIiwgc2l6ZW9mKHgrMSkpOyAvLyB0eXBlIG9mIHgrMSBpcyBpbnQKfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">I2luY2x1ZGUgImFsZ28iCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludGYoIiVkICIsIGlucHV0W2tdKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaW50ZigiJWRcbiIsIHJlbWFpblNpemUpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnRmKCIgIik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnRmKCIlZCIsIGkpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoaSAhPSByZW1haW5TaXplIC0gMSkgewo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludGYoIiVkIixpKQo=</text>
       </register>
     </registers>
     <search>
