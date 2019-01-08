@@ -20,12 +20,12 @@
         <mark key="^" line="1" column="18" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/C/learningC/pat/Basic_Level_Pratice/1009.c" timestamp="1546919733754">
+      <file name="$USER_HOME$/etc/losFiles/projects/C/learningC/pat/Basic_Level_Pratice/1009.c" timestamp="1546920937856">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="^" line="14" column="13" />
-        <mark key="." line="17" column="0" />
+        <mark key="[" line="20" column="7" />
+        <mark key="]" line="21" column="23" />
+        <mark key="^" line="21" column="23" />
+        <mark key="." line="21" column="23" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/C/learningC/pat/Basic_Level_Pratice/1008.c" timestamp="1546841512323">
         <mark key="[" line="15" column="14" />
@@ -317,7 +317,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHByaW50ZigiZW5kIik7Cg==</text>
+        <text encoding="base64">ICAgIHByaW50ZigiJWQiLCAoaW50KSBzdHJsZW4oc3RyKSk7Cg==</text>
       </register>
       <register name="-" type="4">
         <text>80</text>
@@ -329,31 +329,31 @@
         <text encoding="base64">ICAgIHByaW50ZigiZW5kIik7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaW50ZigiZW5kIik7Cg==</text>
+        <text encoding="base64">ICAgIHByaW50ZigiJWQiLCAoaW50KSBzdHJsZW4oc3RyKSk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gICAgZmdldHMoc3RyLCA1LCBzdGRpbik7Cg==</text>
+        <text encoding="base64">ICAgIHByaW50ZigiZW5kIik7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGcK</text>
+        <text encoding="base64">ICAgIHByaW50ZigiZW5kIik7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHByaW50ZigiJXMiLCBzdHIpOwo=</text>
+        <text encoding="base64">Ly8gICAgZmdldHMoc3RyLCA1LCBzdGRpbik7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGZvcgo=</text>
+        <text encoding="base64">ICAgIGcK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaW50ZigiJXMiLCBzdHIpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGZvcgo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
     </registers>
     <search>
