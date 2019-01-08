@@ -47,11 +47,11 @@
         <mark key="." line="53" column="31" />
         <mark key="^" line="33" column="21" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/C/learningC/pat/Basic_Level_Pratice/CMakeLists.txt" timestamp="1546868702318">
-        <mark key="[" line="13" column="53" />
-        <mark key="]" line="13" column="54" />
-        <mark key="^" line="18" column="55" />
-        <mark key="." line="13" column="54" />
+      <file name="$USER_HOME$/etc/losFiles/projects/C/learningC/pat/Basic_Level_Pratice/CMakeLists.txt" timestamp="1546932384710">
+        <mark key="[" line="14" column="57" />
+        <mark key="]" line="14" column="53" />
+        <mark key="^" line="14" column="53" />
+        <mark key="." line="14" column="53" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/C/learningC/tmp.cpp" timestamp="1543671698956">
         <mark key="'" line="0" column="0" />
@@ -227,6 +227,12 @@
         <mark key="^" line="12" column="13" />
         <mark key="." line="12" column="13" />
       </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/C/learningC/pat/Basic_Level_Pratice/1010.c" timestamp="1546932928182">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="24" column="19" />
+        <mark key="." line="24" column="19" />
+        <mark key="^" line="24" column="19" />
+      </file>
       <file name="$USER_HOME$/etc/losFiles/projects/C/learningC/pat/zhongM2018/q7-19.c" timestamp="1546249159297">
         <mark key="'" line="9" column="6" />
         <mark key="[" line="2" column="34" />
@@ -317,7 +323,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Ly8gICAgcHJpbnRmKCIlc1xuIiwgcmVzdWx0KTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>lastPoint</text>
@@ -326,34 +332,34 @@
         <text>No</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnRmKCIlcyIsICZzdHJbMF0pOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnRmKCIlZCAiLCBwYXJhbTEgKiBwYXJhbTIpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gICAgcHJpbnRmKCIlc1xuIiwgcmVzdWx0KTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzdHJuY2F0KHJlc3VsdCwgJnN0cltjdXJyZW50UG9pbnQgPT0gMCA/IDAgOiBjdXJyZW50UG9pbnQgKyAxXSwgODApOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHJlc3VsdFswXSA9ICdcMCc7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnRmKCJcbiIsIHBhcmFtMSAqIHBhcmFtMik7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNoYXIgcmVzdWx0WzgxXTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaW50ZigiJWQiLCByZXN1bHRbMF0pOwo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludGYoKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludGYoIiVkICVzXG4iLCB0LCBzdHIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBsYXN0UG9pbnQgPSBjdXJyZW50UG9pbnQ7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludGYoIiVkICVkICAgIiwgY3VycmVudFBvaW50LCBsYXN0UG9pbnQpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
     </registers>
     <search>
