@@ -168,7 +168,7 @@
         <mark key="." line="33" column="31" />
         <mark key="^" line="33" column="31" />
       </file>
-      <file name="/Dummy.txt" timestamp="1546591035048">
+      <file name="/Dummy.txt" timestamp="1546950889841">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/C/learningC/tmp.c" timestamp="1543748875309">
@@ -265,6 +265,13 @@
         <mark key="^" line="18" column="25" />
         <mark key="." line="20" column="0" />
       </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/C/learningC/pat/Basic_Level_Pratice/1013.c" timestamp="1546953132370">
+        <mark key="'" line="10" column="0" />
+        <mark key="[" line="18" column="18" />
+        <mark key="]" line="24" column="15" />
+        <mark key="." line="24" column="15" />
+        <mark key="^" line="24" column="15" />
+      </file>
       <file name="$USER_HOME$/etc/losFiles/projects/C/learningC/pat/zhongM2018/q7-14.c" timestamp="1546203730168">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="32" column="0" />
@@ -335,10 +342,12 @@
       <jump line="0" column="0" filename="$USER_HOME$/etc/losFiles/projects/C/learningC/pat/Basic_Level_Pratice/1011.c" />
       <jump line="0" column="0" filename="$USER_HOME$/etc/losFiles/projects/C/learningC/pat/Basic_Level_Pratice/1012.c" />
       <jump line="15" column="61" filename="$USER_HOME$/etc/losFiles/projects/C/learningC/pat/Basic_Level_Pratice/1012.c" />
+      <jump line="15" column="0" filename="$USER_HOME$/etc/losFiles/projects/C/learningC/pat/Basic_Level_Pratice/1013.c" />
+      <jump line="7" column="0" filename="$USER_HOME$/etc/losFiles/projects/C/learningC/pat/Basic_Level_Pratice/1013.c" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIEExICs9IGN1cnJlbnRWYWwgJSAyID09IDAgPyBjdXJyZW50VmFsIDogMDsK</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -347,34 +356,34 @@
         <text>No</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGlmIChjb3VudDIgPT0gMCkgewogICAgICAgIHByaW50ZigiTiIpOwogICAgfSBlbHNlIHsK</text>
+        <text encoding="base64">ICAgICAgICBpZiAoY291bnQgJSAxMCA9PSAwKSB7CiAgICAgICAgICAgIHByaW50ZigiICVkIiwgaSk7CiAgICAgICAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIEExICs9IGN1cnJlbnRWYWwgJSAyID09IDAgPyBjdXJyZW50VmFsIDogMDsK</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvdW50MSsrOwo=</text>
+        <text encoding="base64">ICAgICAgICBpZihjdXJyZW50PjIpewo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50ZigiJWRcbiIsIGNvdW50MSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY291bnQ7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaW50ZigiJWQiLCBjb3VudDEpOwo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludGVkQ291bnQK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgIAo=</text>
+        <text encoding="base64">ICAgIGZvciAoaW50IGkgPSBNOyBpIDw9IE47ICsraSkgewo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY291bnQrKzsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGlmICgpCg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
     </registers>
     <search>
