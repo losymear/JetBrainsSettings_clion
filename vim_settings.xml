@@ -244,6 +244,13 @@
         <mark key="^" line="8" column="0" />
         <mark key="." line="7" column="0" />
       </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/C/learningC/pat/Basic_Level_Pratice/1019.c" timestamp="1547045558890">
+        <mark key="'" line="12" column="27" />
+        <mark key="[" line="34" column="5" />
+        <mark key="]" line="12" column="27" />
+        <mark key="." line="12" column="27" />
+        <mark key="^" line="12" column="27" />
+      </file>
       <file name="/Dummy.txt" timestamp="1546950889841">
         <mark key="[" line="0" column="0" />
       </file>
@@ -388,6 +395,9 @@
       <jump line="9" column="14" filename="$USER_HOME$/etc/losFiles/projects/C/learningC/pat/Basic_Level_Pratice/1018.c" />
       <jump line="62" column="18" filename="$USER_HOME$/etc/losFiles/projects/C/learningC/pat/Basic_Level_Pratice/1018.c" />
       <jump line="11" column="13" filename="$USER_HOME$/etc/losFiles/projects/C/learningC/pat/Basic_Level_Pratice/1018.c" />
+      <jump line="10" column="25" filename="$USER_HOME$/etc/losFiles/projects/C/learningC/pat/Basic_Level_Pratice/1019.c" />
+      <jump line="11" column="12" filename="$USER_HOME$/etc/losFiles/projects/C/learningC/pat/Basic_Level_Pratice/1019.c" />
+      <jump line="12" column="27" filename="$USER_HOME$/etc/losFiles/projects/C/learningC/pat/Basic_Level_Pratice/1019.c" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -401,44 +411,44 @@
           <key char="65535" code="88" mods="130" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludGYoIiVjICVjXG4iLCBhSW5wdXQsIGJJbnB1dCk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>char</text>
       </register>
       <register name="-" type="4">
-        <text>winB</text>
+        <text>char</text>
       </register>
       <register name="/" type="4">
         <text>No</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAod2luQVtpXT49d2luQVttb3N0V2luQUlkeF0pewogICAgICAgICAgICBtb3N0V2luQUlkeD1pOwogICAgICAgIH0K</text>
+        <text encoding="base64">aW50IHRyYW5zZm9ybShpbnQgaW5wdXQpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludGYoIiVjICVjXG4iLCBhSW5wdXQsIGJJbnB1dCk7Cg==</text>
+        <text encoding="base64">ICAgIHFzb3J0KGFycik7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaW50ZigiJWRcbiIsbW9zdFdpbkFJZHgpCg==</text>
+        <text encoding="base64">ICAgIGludCBhcnJbNF07Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNoYXIgdGFibGVbM10gPSB7J0onLCAnQycsICdCJ307Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHdpbkJbMV0gPj0gd2luQlswXSA/IG1vc3RXaW5CID0gJ0MnIDogbW9zdFdpbkI7Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHdpbkFbMV0gPj0gd2luQVswXSA/IG1vc3RXaW5BID0gJ0MnIDogbW9zdFdpbkE7Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHdpbkFbMV0+d2luQj9tb3N0V2luQT0nJwo=</text>
+        <text encoding="base64">ICAgICAgICBhcnIgPSAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaW50ZigiJWMgJWNcbiIsIGFJbnB1dCwgYklucHV0KTsK</text>
+        <text encoding="base64">ICAgIHdoaWxlIChpbnB1dCA+IDApIHsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoKQo=</text>
+        <text encoding="base64">ICAgIGFycls0XQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGkK</text>
+        <text encoding="base64">aW50Cg==</text>
       </register>
     </registers>
     <search>
