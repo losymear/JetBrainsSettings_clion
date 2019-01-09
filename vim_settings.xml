@@ -107,12 +107,12 @@
         <mark key="^" line="5" column="5" />
         <mark key="." line="5" column="5" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/C/learningC/pat/Basic_Level_Pratice/1018.c" timestamp="1546969509309">
-        <mark key="'" line="10" column="33" />
-        <mark key="[" line="40" column="40" />
-        <mark key="]" line="41" column="28" />
-        <mark key="^" line="41" column="28" />
-        <mark key="." line="41" column="28" />
+      <file name="$USER_HOME$/etc/losFiles/projects/C/learningC/pat/Basic_Level_Pratice/1018.c" timestamp="1547041417013">
+        <mark key="'" line="13" column="33" />
+        <mark key="[" line="11" column="13" />
+        <mark key="]" line="11" column="14" />
+        <mark key="^" line="9" column="14" />
+        <mark key="." line="11" column="14" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/C/learnC/CMakeLists.txt" timestamp="1539801679497">
         <mark key="[" line="0" column="0" />
@@ -398,7 +398,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHdpbkJbMV0gPj0gd2luQlswXSA/IG1vc3RXaW5CID0gJ0MnIDogbW9zdFdpbkI7Cg==</text>
+        <text encoding="base64">I2RlZmluZSBDSURYPTE7Cg==</text>
       </register>
       <register name="-" type="4">
         <text>100001</text>
@@ -407,7 +407,7 @@
         <text>No</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHdpbkFbMV0+PXdpbkFbMF0/bW9zdFdpbkE9J0MnOm1vc3RXaW5BOwo=</text>
+        <text encoding="base64">I2RlZmluZSBDSURYPTE7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIHdpbkJbMV0gPj0gd2luQlswXSA/IG1vc3RXaW5CID0gJ0MnIDogbW9zdFdpbkI7Cg==</text>
