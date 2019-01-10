@@ -70,6 +70,12 @@
       <file name="/LLDB" timestamp="1546662215962">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/C/learningC/pat/Basic_Level_Pratice/1023.c" timestamp="1547091959398">
+        <mark key="[" line="24" column="33" />
+        <mark key="]" line="24" column="16" />
+        <mark key="." line="24" column="16" />
+        <mark key="^" line="24" column="16" />
+      </file>
       <file name="$USER_HOME$/etc/losFiles/projects/C/learningC/pat/Basic_Level_Pratice/1021.c" timestamp="1547054563476">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="26" column="30" />
@@ -257,6 +263,12 @@
         <mark key="^" line="5" column="24" />
         <mark key="." line="5" column="24" />
       </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/C/learningC/pat/Basic_Level_Pratice/1024.c" timestamp="1547092876545">
+        <mark key="[" line="15" column="44" />
+        <mark key="]" line="15" column="47" />
+        <mark key="^" line="15" column="47" />
+        <mark key="." line="15" column="47" />
+      </file>
       <file name="$USER_HOME$/etc/losFiles/projects/C/learningC/tcpl/tmp.c" timestamp="1546189412968">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
@@ -432,43 +444,43 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>count</text>
+        <text>memory</text>
       </register>
       <register name="-" type="4">
-        <text>count</text>
+        <text>memory</text>
       </register>
       <register name="/" type="4">
         <text>No</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">aW50IGNvbXBhcmUoY29uc3Qgdm9pZCAqYSwgY29uc3Qgdm9pZCAqYik7Cg==</text>
+        <text encoding="base64">ICAgIHByaW50ZigiJWRcbiIsIG51bTIpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaW50ZigiJWRcbiIsIHJlc3VsdFsyXSk7Cg==</text>
+        <text encoding="base64">ICAgIHNjYW5mKCIlYyVkLiVkRSVjJWQiLCAmY2hhcjEsICZudW0xLCAmbnVtMiwgJmNoYXIyLCAmbnVtMik7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaW50ZigiJWRcbiIsY291bnQpOwo=</text>
+        <text encoding="base64">ICAgIHByaW50ZigiJWNcbiIsIGNoYXIyKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludGYoIiVkXG4iLCBzdW0gJSBEKTsK</text>
+        <text encoding="base64">ICAgIHByaW50ZigiJWRcbiIsIG51bTMpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHByaW50ZigiJWQiLCBzdW0pOwo=</text>
+        <text encoding="base64">ICAgIHByaW50ZigiJWRcbiIsIG51bTIpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaW50ZigiJWRcbiIsIG51bTEpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIHByaW50ZigiJWNcbiIsIGNoYXIxKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGludCB0ZW5Qb3dlcj0gIHBvdwo=</text>
+        <text encoding="base64">ICAgIHByaW50ZigiJWYiLCBhKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHNjYW5mKCkK</text>
+        <text encoding="base64">ICAgIHNjYW5mKCIlZiIsICZhKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgIGZsb2F0IGE7Cg==</text>
       </register>
     </registers>
     <search>
