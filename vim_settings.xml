@@ -95,6 +95,11 @@
         <mark key="." line="30" column="16" />
         <mark key="^" line="30" column="16" />
       </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/C/learningC/pat/Basic_Level_Pratice/1027.c" timestamp="1547136879758">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
+      </file>
       <file name="$USER_HOME$/etc/losFiles/projects/C/learningC/basic/count_words.c" timestamp="1542392354834">
         <mark key="[" line="1" column="31" />
         <mark key="]" line="2" column="14" />
@@ -448,7 +453,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHRvdGFsU2Vjb25kcyA9ICh0b3RhbFNlY29uZHMgKiAxMDAgPT0gKGVuZFRpbWUgLSBzdGFydFRpbWUpKSA/IHRvdGFsU2Vjb25kcyA6IHRvdGFsU2Vjb25kcyArIDE7Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="-" type="4">
         <text>idx_dot</text>
@@ -460,31 +465,31 @@
         <text encoding="base64">ICAgICAgICBmb3IgKGludCBpID0gMzsgaSA8IGlkeF9FOyArK2kpIHsKICAgICAgICAgICAgcHJpbnRmKCIlYyIsIGlucHV0W2ldKTsKICAgICAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHRvdGFsU2Vjb25kcyA9ICh0b3RhbFNlY29uZHMgKiAxMDAgPT0gKGVuZFRpbWUgLSBzdGFydFRpbWUpKSA/IHRvdGFsU2Vjb25kcyA6IHRvdGFsU2Vjb25kcyArIDE7Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnRmKCIlZFxuIiwgMzMzKTsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGZvciAoaW50IGogPSAwOyBqIDwgOyArK2opIHsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gMDsK</text>
+        <text encoding="base64">ICAgIHdoaWxlICgpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaW50ZigiJWQiLCBpKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnRmKCIlYyIsIGlucHV0WzFdKTsK</text>
+        <text encoding="base64">ICAgIHRvdGFsU2Vjb25kcyA9ICh0b3RhbFNlY29uZHMgKiAxMDAgPT0gKGVuZFRpbWUgLSBzdGFydFRpbWUpKSA/IHRvdGFsU2Vjb25kcyA6IHRvdGFsU2Vjb25kcyArIDE7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGlmIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnRmKCIlZFxuIiwgMzMzKTsK</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gMDsK</text>
       </register>
     </registers>
     <search>
