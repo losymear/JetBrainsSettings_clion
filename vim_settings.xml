@@ -263,11 +263,12 @@
         <mark key="^" line="5" column="24" />
         <mark key="." line="5" column="24" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/C/learningC/pat/Basic_Level_Pratice/1024.c" timestamp="1547092876545">
-        <mark key="[" line="15" column="44" />
-        <mark key="]" line="15" column="47" />
-        <mark key="^" line="15" column="47" />
-        <mark key="." line="15" column="47" />
+      <file name="$USER_HOME$/etc/losFiles/projects/C/learningC/pat/Basic_Level_Pratice/1024.c" timestamp="1547097076995">
+        <mark key="'" line="7" column="26" />
+        <mark key="[" line="5" column="22" />
+        <mark key="]" line="5" column="21" />
+        <mark key="." line="5" column="21" />
+        <mark key="^" line="5" column="21" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/C/learningC/tcpl/tmp.c" timestamp="1546189412968">
         <mark key="[" line="7" column="0" />
@@ -430,6 +431,7 @@
       <jump line="11" column="12" filename="$USER_HOME$/etc/losFiles/projects/C/learningC/pat/Basic_Level_Pratice/1019.c" />
       <jump line="12" column="27" filename="$USER_HOME$/etc/losFiles/projects/C/learningC/pat/Basic_Level_Pratice/1019.c" />
       <jump line="0" column="0" filename="$USER_HOME$/etc/losFiles/projects/C/learningC/pat/Basic_Level_Pratice/1021.c" />
+      <jump line="7" column="26" filename="$USER_HOME$/etc/losFiles/projects/C/learningC/pat/Basic_Level_Pratice/1024.c" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -443,44 +445,44 @@
           <key char="65535" code="88" mods="130" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>memory</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnRmKCIlZFxuIiwgMzMzKTsK</text>
       </register>
       <register name="-" type="4">
-        <text>memory</text>
+        <text>idx_dot</text>
       </register>
       <register name="/" type="4">
         <text>No</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHByaW50ZigiJWRcbiIsIG51bTIpOwo=</text>
+        <text encoding="base64">ICAgICAgICBmb3IgKGludCBpID0gMzsgaSA8IGlkeF9FOyArK2kpIHsKICAgICAgICAgICAgcHJpbnRmKCIlYyIsIGlucHV0W2ldKTsKICAgICAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHNjYW5mKCIlYyVkLiVkRSVjJWQiLCAmY2hhcjEsICZudW0xLCAmbnVtMiwgJmNoYXIyLCAmbnVtMik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnRmKCIlZFxuIiwgMzMzKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaW50ZigiJWNcbiIsIGNoYXIyKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaW50ZigiJWRcbiIsIG51bTMpOwo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gMDsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHByaW50ZigiJWRcbiIsIG51bTIpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaW50ZigiJWRcbiIsIG51bTEpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnRmKCIlYyIsIGlucHV0WzFdKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaW50ZigiJWNcbiIsIGNoYXIxKTsK</text>
+        <text encoding="base64">ICAgIGlmIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaW50ZigiJWYiLCBhKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHNjYW5mKCIlZiIsICZhKTsK</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGZsb2F0IGE7Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICB9Cg==</text>
       </register>
     </registers>
     <search>
