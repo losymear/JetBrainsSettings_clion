@@ -66,12 +66,12 @@
         <mark key="]" line="18" column="60" />
         <mark key="." line="18" column="60" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/C/learningC/tcpl/CMakeLists.txt" timestamp="1547190298742">
+      <file name="$USER_HOME$/etc/losFiles/projects/C/learningC/tcpl/CMakeLists.txt" timestamp="1547558794182">
         <mark key="'" line="0" column="15" />
-        <mark key="[" line="6" column="75" />
-        <mark key="]" line="6" column="79" />
-        <mark key="^" line="6" column="79" />
-        <mark key="." line="6" column="79" />
+        <mark key="[" line="7" column="20" />
+        <mark key="]" line="7" column="20" />
+        <mark key="^" line="7" column="18" />
+        <mark key="." line="7" column="20" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/C/learningC/tcpl/README.md" timestamp="1543761672844">
         <mark key="[" line="0" column="0" />
@@ -131,6 +131,13 @@
         <mark key="." line="33" column="31" />
         <mark key="^" line="33" column="31" />
       </file>
+      <file name="$USER_HOME$/etc/losFiles/projects/C/learningC/tcpl/test.c" timestamp="1547558836587">
+        <mark key="'" line="12" column="0" />
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="10" column="3" />
+        <mark key="^" line="10" column="3" />
+        <mark key="." line="10" column="3" />
+      </file>
       <file name="$USER_HOME$/etc/losFiles/projects/C/learningC/basic/count_lines.c" timestamp="1542391076028">
         <mark key="[" line="5" column="6" />
         <mark key="]" line="5" column="5" />
@@ -144,7 +151,7 @@
         <mark key="." line="26" column="0" />
         <mark key="^" line="54" column="44" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/C/learningC/tcpl/CodeFromBook/customIO.c" timestamp="1547190508827">
+      <file name="$USER_HOME$/etc/losFiles/projects/C/learningC/tcpl/CodeFromBook/customIO.c" timestamp="1547558770229">
         <mark key="'" line="13" column="38" />
         <mark key="[" line="11" column="11" />
         <mark key="]" line="23" column="13" />
@@ -495,6 +502,7 @@
       <jump line="8" column="0" filename="$USER_HOME$/etc/losFiles/projects/C/learningC/tcpl/CodeFromBook/customIO.c" />
       <jump line="13" column="38" filename="$USER_HOME$/etc/losFiles/projects/C/learningC/tcpl/CodeFromBook/customIO.c" />
       <jump line="3" column="18" filename="$USER_HOME$/etc/losFiles/projects/C/learningC/tcpl/CodeFromBook/customIO.h" />
+      <jump line="9" column="0" filename="$USER_HOME$/etc/losFiles/projects/C/learningC/tcpl/test.c" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -508,17 +516,17 @@
           <key char="65535" code="88" mods="130" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW5jbHVkZXMgcwo=</text>
+      <register name="&quot;" type="4">
+        <text>tcpl/CodeFromBook/index.c tcpl/CodeFromBook/customIO.c tcpl/CodeFromBook/customIO.h)</text>
       </register>
       <register name="-" type="4">
-        <text>main</text>
+        <text>tcpl/CodeFromBook/index.c tcpl/CodeFromBook/customIO.c tcpl/CodeFromBook/customIO.h)</text>
       </register>
       <register name="/" type="4">
         <text>No</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">aW50IHByaW50QSgpewo=</text>
+        <text encoding="base64">YWRkX2V4ZWN1dGFibGUobWFpbiB0Y3BsL0NvZGVGcm9tQm9vay9pbmRleC5jIHRjcGwvQ29kZUZyb21Cb29rL2N1c3RvbUlPLmMgdGNwbC9Db2RlRnJvbUJvb2svY3VzdG9tSU8uaCkK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">aW5jbHVkZXMgcwo=</text>
