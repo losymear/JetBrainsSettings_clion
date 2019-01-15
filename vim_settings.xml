@@ -131,12 +131,12 @@
         <mark key="." line="33" column="31" />
         <mark key="^" line="33" column="31" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/C/learningC/tcpl/test.c" timestamp="1547561577695">
-        <mark key="'" line="20" column="0" />
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="0" />
-        <mark key="." line="18" column="0" />
-        <mark key="^" line="17" column="22" />
+      <file name="$USER_HOME$/etc/losFiles/projects/C/learningC/tcpl/test.c" timestamp="1547568317131">
+        <mark key="'" line="17" column="0" />
+        <mark key="[" line="12" column="15" />
+        <mark key="]" line="12" column="15" />
+        <mark key="^" line="12" column="15" />
+        <mark key="." line="12" column="15" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/C/learningC/basic/count_lines.c" timestamp="1542391076028">
         <mark key="[" line="5" column="6" />
@@ -516,11 +516,11 @@
           <key char="65535" code="88" mods="130" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGMueD0xO2MueT00Owo=</text>
+      <register name="&quot;" type="4">
+        <text>, sqrt(double);</text>
       </register>
       <register name="-" type="4">
-        <text>tcpl/CodeFromBook/index.c tcpl/CodeFromBook/customIO.c tcpl/CodeFromBook/customIO.h)</text>
+        <text>, sqrt(double);</text>
       </register>
       <register name="/" type="4">
         <text>No</text>
@@ -529,31 +529,31 @@
         <text encoding="base64">YWRkX2V4ZWN1dGFibGUobWFpbiB0Y3BsL0NvZGVGcm9tQm9vay9pbmRleC5jIHRjcGwvQ29kZUZyb21Cb29rL2N1c3RvbUlPLmMgdGNwbC9Db2RlRnJvbUJvb2svY3VzdG9tSU8uaCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGMueD0xO2MueT00Owo=</text>
+        <text encoding="base64">ICAgIGRvdWJsZSBkaXN0LCBzcXJ0KGRvdWJsZSk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">cwo=</text>
+        <text encoding="base64">ZG91YmxlIGRpc3QsIHNxcnQoZG91YmxlKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW5jbHVkZXMgcwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW5jbHVkZQo=</text>
+        <text encoding="base64">ICAgIHN0cnVjdCBQb2ludCB7CiAgICAgICAgaW50IHg7CiAgICAgICAgaW50IHk7CiAgICB9Owo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW5jbAo=</text>
+        <text encoding="base64">ICAgIHByaW50ZigiJWQiLCBjLnggKyBjLnkpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">VENQTF9DVVNUT01JT19ICg==</text>
+        <text encoding="base64">ICAgIHN0cnVjdCBQb2ludCBjPXsxLDJ9Owo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">VENQTF9DVVNUT01JT19ICg==</text>
+        <text encoding="base64">ICAgIGMueD0xO2MueT00Owo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0Cg==</text>
+        <text encoding="base64">cwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW50IG15R2V0bGluZShjaGFyIHNbXSwgaW50IGxpbSkgCg==</text>
+        <text encoding="base64">aW5jbHVkZXMgcwo=</text>
       </register>
     </registers>
     <search>
