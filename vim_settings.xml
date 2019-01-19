@@ -131,11 +131,12 @@
         <mark key="." line="33" column="31" />
         <mark key="^" line="33" column="31" />
       </file>
-      <file name="$USER_HOME$/etc/losFiles/projects/C/learningC/tcpl/test.c" timestamp="1547833991125">
-        <mark key="'" line="15" column="0" />
-        <mark key="[" line="11" column="12" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
+      <file name="$USER_HOME$/etc/losFiles/projects/C/learningC/tcpl/test.c" timestamp="1547869858227">
+        <mark key="'" line="18" column="0" />
+        <mark key="[" line="13" column="17" />
+        <mark key="]" line="14" column="22" />
+        <mark key="." line="14" column="22" />
+        <mark key="^" line="14" column="22" />
       </file>
       <file name="$USER_HOME$/etc/losFiles/projects/C/learningC/basic/count_lines.c" timestamp="1542391076028">
         <mark key="[" line="5" column="6" />
@@ -515,7 +516,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHByaW50ZigiJWYiLCBkaXN0KTsK</text>
+        <text encoding="base64">ICAgIHNjYW5mKCIlYyVjJWMlYyIsICZhLCAmYiwgJmMsICZkKTsK</text>
       </register>
       <register name="-" type="4">
         <text>, sqrt(double);</text>
@@ -527,31 +528,31 @@
         <text encoding="base64">YWRkX2V4ZWN1dGFibGUobWFpbiB0Y3BsL0NvZGVGcm9tQm9vay9pbmRleC5jIHRjcGwvQ29kZUZyb21Cb29rL2N1c3RvbUlPLmMgdGNwbC9Db2RlRnJvbUJvb2svY3VzdG9tSU8uaCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaW50ZigiJWYiLCBkaXN0KTsK</text>
+        <text encoding="base64">ICAgIHNjYW5mKCIlYyVjJWMlYyIsICZhLCAmYiwgJmMsICZkKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGRpc3QgPSBzcXJ0KDMpOwo=</text>
+        <text encoding="base64">aW50IG1haW4oKSB7Cn0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGRvdWJsZSBkaXN0Owo=</text>
+        <text encoding="base64">ICAgIHByaW50ZigiOiUxMHM6IiwiaGVsbG8gd29ybGQiKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGRvdWJsZSBkaXN0LCBzcXJ0KGRvdWJsZSk7Cg==</text>
+        <text encoding="base64">ICAgIHByaW50ZigiJWYiLCBkaXN0KTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZG91YmxlIGRpc3QsIHNxcnQoZG91YmxlKTsK</text>
+        <text encoding="base64">ICAgIGRpc3QgPSBzcXJ0KDMpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGRvdWJsZSBkaXN0Owo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHN0cnVjdCBQb2ludCB7CiAgICAgICAgaW50IHg7CiAgICAgICAgaW50IHk7CiAgICB9Owo=</text>
+        <text encoding="base64">ICAgIGRvdWJsZSBkaXN0LCBzcXJ0KGRvdWJsZSk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaW50ZigiJWQiLCBjLnggKyBjLnkpOwo=</text>
+        <text encoding="base64">ZG91YmxlIGRpc3QsIHNxcnQoZG91YmxlKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHN0cnVjdCBQb2ludCBjPXsxLDJ9Owo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
     </registers>
     <search>
